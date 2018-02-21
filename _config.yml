@@ -78,6 +78,7 @@ baseurl:
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 markdown: kramdown
+collections_dir: teams
 descriptions:
 - cat: jekyll
   desc: Posts describing Jekyll setup techniques.
