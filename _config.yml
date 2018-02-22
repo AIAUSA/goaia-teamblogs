@@ -17,6 +17,7 @@ collections:
   puerto-rico-spring-break:
     title: Puerto Rico Spring Break
     output: true
+    permalink: "/teamblogs/:year/:collection/:path"
   south-africa-spring-break:
     title: South Africa Spring Break
     output: true
