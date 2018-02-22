@@ -17,6 +17,7 @@ collections:
   south-africa-spring-break:
     title: South Africa Spring Break
     output: true
+    permalink: /teamblogs/:year/:collection/:path
   teams:
     title: Teams
     output: false
@@ -27,6 +28,12 @@ defaults:
 - scope:
     path: ''
     type: pages
+  values:
+    byLine: ''
+    layout: page
+- scope:
+    path: ''
+    type: south-africa
   values:
     byLine: ''
     layout: page
@@ -82,7 +89,7 @@ baseurl:
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 markdown: kramdown
-collections_dir: teams
+collections_dir: teamblogs
 descriptions:
 - cat: jekyll
   desc: Posts describing Jekyll setup techniques.
