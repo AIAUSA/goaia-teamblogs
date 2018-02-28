@@ -22,6 +22,7 @@ collections:
     title: South Africa Spring Break
     output: true
     permalink: "/teamblogs/:year/:collection/:path"
+    layout: teamblogs
   teams:
     title: Teams
     output: false
