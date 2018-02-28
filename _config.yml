@@ -26,10 +26,10 @@ defaults:
     layout: page
 - scope:
     path: ''
-    type: south-africa
+    type: south-africa-spring-break
   values:
     byLine: ''
-    layout: page
+    layout: blog-page
 - scope:
     path: ''
     type: camps
