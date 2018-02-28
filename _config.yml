@@ -13,6 +13,7 @@ collections:
     title: South Africa Spring Break
     output: true
     permalink: "/teamblogs/:year/:collection/:path"
+    layout: teamblogs
   uploads:
     title: Uploads
     output: true
@@ -76,17 +77,11 @@ keep_files:
 - ".git"
 - ".gitignore"
 subtitle: Celebrating the Induction to the Hall of Faith
-url: 
-baseurl: 
+baseurl: http://goaia.org/
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 markdown: kramdown
 collections_dir: teamblogs
-descriptions:
-- cat: jekyll
-  desc: Posts describing Jekyll setup techniques.
-- cat: dummy
-  desc: Just some placeholder posts, lorem ipsum and the rest.
 sass:
   style: compressed
 plugins:
