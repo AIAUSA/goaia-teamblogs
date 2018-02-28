@@ -2,15 +2,6 @@
 title: GoAIA
 timezone: UTC
 collections:
-  camps:
-    title: Camps
-    output: false
-  events:
-    title: Events
-    output: true
-  media:
-    title: Media
-    output: true
   posts:
     title: Posts
     output: true
@@ -22,9 +13,6 @@ collections:
     title: South Africa Spring Break
     output: true
     permalink: "/teamblogs/:year/:collection/:path"
-  teams:
-    title: Teams
-    output: false
   uploads:
     title: Uploads
     output: true
