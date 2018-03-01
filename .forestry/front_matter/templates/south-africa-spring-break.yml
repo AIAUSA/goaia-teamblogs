@@ -1,0 +1,26 @@
+---
+pages:
+- _south-africa-spring-break/test2.md
+- _south-africa-spring-break/test-post.markdown
+hide_body: false
+fields:
+- name: title
+  label: Title
+  type: text
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: blog-page
