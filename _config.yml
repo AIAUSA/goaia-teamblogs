@@ -13,7 +13,10 @@ collections:
     title: South Africa Spring Break
     output: true
     permalink: "/teamblogs/:collection/:year/:path"
-    layout: teamblogs
+  basketball-poland:
+    title: Basketball - Poland
+    output: true
+    permalink: "/basketball/teamblogs/:collection/:year/:path"
   uploads:
     title: Uploads
     output: true
@@ -27,6 +30,12 @@ defaults:
 - scope:
     path: ''
     type: south-africa-spring-break
+  values:
+    byLine: ''
+    layout: blog-page
+- scope:
+    path: ''
+    type: basketball-poland
   values:
     byLine: ''
     layout: blog-page
