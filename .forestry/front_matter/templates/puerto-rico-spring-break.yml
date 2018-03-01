@@ -1,0 +1,8 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Layout
+  name: layout
+  hidden: true
+  default: blog-page
