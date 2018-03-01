@@ -1,4 +1,6 @@
 ---
+pages:
+- _basketball-poland/my-poland-test.md
 hide_body: false
 fields:
 - name: byLine
