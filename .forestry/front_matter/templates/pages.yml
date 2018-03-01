@@ -1,0 +1,16 @@
+---
+pages:
+- _pages/index.md
+- _pages/south-africa-spring-break/index.md
+hide_body: false
+fields:
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
