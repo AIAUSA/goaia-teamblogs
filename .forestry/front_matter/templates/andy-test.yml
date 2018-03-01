@@ -6,3 +6,9 @@ fields:
   label: layout
   hidden: true
   default: blog-page
+- type: text
+  name: title
+  label: Title
+- type: datetime
+  name: date
+  label: Date
