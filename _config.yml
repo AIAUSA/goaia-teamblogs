@@ -2,9 +2,6 @@
 title: GoAIA
 timezone: UTC
 collections:
-  posts:
-    title: Posts
-    output: true
   puerto-rico-spring-break:
     title: Puerto Rico Spring Break
     output: true
@@ -17,9 +14,6 @@ collections:
     title: Basketball - Poland
     output: true
     permalink: "/basketball/teamblogs/:collection/:year/:path"
-  uploads:
-    title: Uploads
-    output: true
 defaults:
 - scope:
     path: ''
