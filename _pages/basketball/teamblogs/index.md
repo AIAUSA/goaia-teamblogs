@@ -1,5 +1,5 @@
 ---
-title: Basketball - Poland
+title: Basketball 
 date: 2018-02-21 19:15:00 Z
 permalink: "/basketball/teamblogs/"
 pagination:
