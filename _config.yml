@@ -5,7 +5,7 @@ collections:
   puerto-rico-spring-break:
     title: Puerto Rico Spring Break
     output: true
-    permalink: "/teamblogs/:year/:collection/:path"
+    permalink: "/teamblogs/:collection/:year/:path"
   south-africa-spring-break:
     title: South Africa Spring Break
     output: true
@@ -88,7 +88,7 @@ sass:
   style: compressed
 pagination:
   enabled: true
-  debug: true
+  debug: false
   collection: all
   per_page: 5
   permalink: "/page/:num/"
