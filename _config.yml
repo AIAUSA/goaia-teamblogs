@@ -29,43 +29,16 @@ defaults:
     layout: blog-page
 - scope:
     path: ''
-    type: basketball-poland
+    type: puerto-rico-spring-break
   values:
     byLine: ''
     layout: blog-page
 - scope:
     path: ''
-    type: camps
+    type: basketball-poland
   values:
-    location: 
-    start_date: 
-    end_date: 
-    event_id: 
-    layout: page
-    address: 
-    type: 
-- scope:
-    path: ''
-    type: teams
-  values:
-    level: 
-    director: 
-    director_email: 
-    dates: 
-    type: 
-    layout: page
-- scope:
-    path: ''
-    type: events
-  values:
-    location: 
-    image: 
-    start_date: 
-    end_date: 
-    layout: page
-    alt_url: 
-    short_description: 
-    final_four: 
+    byLine: ''
+    layout: blog-page
 include:
 - _pages
 exclude:
