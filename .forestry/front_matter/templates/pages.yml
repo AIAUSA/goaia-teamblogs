@@ -1,5 +1,7 @@
 ---
 pages:
+- _pages/basketball/teamblogs/index.md
+- _pages/basketball/teamblogs/basketball-poland/index.md
 - _pages/index.md
 - _pages/south-africa-spring-break/index.md
 hide_body: false
