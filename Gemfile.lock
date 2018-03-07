@@ -1,3 +1,8 @@
+PATH
+  remote: .
+  specs:
+    goaia-jekyll (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -43,6 +48,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
+    rake (10.5.0)
     rb-fsevent (0.10.2)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -59,8 +65,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll
-  jekyll-redirect-from
+  bundler (~> 1.12)
+  goaia-jekyll!
+  jekyll (~> 3.2)
+  jekyll-redirect-from (~> 0.13.0)
+  rake (~> 10.0)
 
 BUNDLED WITH
    1.16.1
