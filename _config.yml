@@ -39,6 +39,7 @@ defaults:
   values:
     byLine: ''
     layout: blog-page
+    filter: basketball
 include:
 - _pages
 exclude:

@@ -7,7 +7,12 @@
 
     </head>
     <body>
-        {% include base/base-menu.html %}
+        {% if page.filter %}
+            {% assign menu = page.filter | prepend: 'base/' | append: '-menu.html' %}
+            {% include {{menu}} %}
+        {% else %}
+            {% include base/base-menu.html %}
+        {% endif %}
 
         {{ content }}
         {% include base/footer.html %}        
