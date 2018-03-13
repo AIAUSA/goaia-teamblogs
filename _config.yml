@@ -14,6 +14,9 @@ collections:
     title: Basketball - Poland
     output: true
     permalink: "/basketball/teamblogs/:collection/:year/:path"
+  aia-team-blogs:
+    title: AIA Team Blogs
+    output: false
 defaults:
 - scope:
     path: ''
