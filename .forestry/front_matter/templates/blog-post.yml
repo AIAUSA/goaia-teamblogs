@@ -14,3 +14,4 @@ fields:
   label: layout
   description: blog-page
   hidden: true
+  default: blog-page
