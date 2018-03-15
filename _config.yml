@@ -5,11 +5,11 @@ collections:
   puerto-rico-spring-break:
     title: Puerto Rico Spring Break
     output: true
-    permalink: "/teamblogs/:collection/:year/:path"
+    permalink: "/opportunity/blog/:collection/:year/:path"
   south-africa-spring-break:
     title: South Africa Spring Break
     output: true
-    permalink: "/teamblogs/:collection/:year/:path"
+    permalink: "/opportunity/blog/:collection/:year/:path"
   basketball-poland:
     title: Basketball - Poland
     output: true
