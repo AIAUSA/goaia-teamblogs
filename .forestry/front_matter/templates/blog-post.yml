@@ -8,3 +8,8 @@ fields:
   name: title
   config:
     required: true
+- type: text
+  name: layout
+  label: layout
+  description: blog-page
+  hidden: true
