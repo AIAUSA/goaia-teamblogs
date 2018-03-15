@@ -47,7 +47,7 @@ defaults:
     byLine: ''
     layout: blog-page
     filter: basketball
-  - scope:
+- scope:
     path: ''
     type: basketball-test
   values:
