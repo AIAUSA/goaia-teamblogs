@@ -1,0 +1,13 @@
+---
+hide_body: false
+fields:
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: blog-page

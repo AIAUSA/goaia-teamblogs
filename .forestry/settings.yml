@@ -7,13 +7,3 @@ auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
 collections: 
-  _puerto-rico-spring-break:
-    default_front_matter_template: blog_post
-  _south-africa-spring-break:
-    default_front_matter_template: blog_post
-  _basketball-poland:
-    default_front_matter_template: blog_post
-  _aia-team-blogs:
-    default_front_matter_template: blog_post
-  _basketball-test:
-    default_front_matter_template: blog_post
