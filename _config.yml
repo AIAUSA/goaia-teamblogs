@@ -17,6 +17,10 @@ collections:
   aia-team-blogs:
     title: AIA Team Blogs
     output: false
+  basketball-test:
+    title: Basketball - Test
+    output: true
+    permalink: "/basketball/teamblogs/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
@@ -39,6 +43,13 @@ defaults:
 - scope:
     path: ''
     type: basketball-poland
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: basketball
+  - scope:
+    path: ''
+    type: basketball-test
   values:
     byLine: ''
     layout: blog-page
