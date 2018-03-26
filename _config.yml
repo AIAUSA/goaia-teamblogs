@@ -17,12 +17,10 @@ collections:
   aia-team-blogs:
     title: AIA Team Blogs
     output: false
-  sports-perfomance-armenia:
+  sports-performance-armenia:
     title: Sports Performance Armenia
     output: true
-    permalink: "
-/opportunity/blog/sports-performance/blog/:collection/:year/:path
-"
+    permalink: "/opportunity/blog/sports-performance/blog/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
