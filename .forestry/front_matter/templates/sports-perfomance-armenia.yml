@@ -1,6 +1,6 @@
 ---
 pages:
-- _pages/oppoortunity/blog/sports-performance/sports-perfomance-armenia/index.md
+- _sports-perfomance-armenia/test.md
 hide_body: false
 fields:
 - name: byLine
@@ -12,4 +12,9 @@ fields:
   label: Layout
   type: text
   hidden: false
-  default: page
+  default: blog-page
+- name: filter
+  label: Filter
+  type: text
+  hidden: false
+  default: sports-performance
