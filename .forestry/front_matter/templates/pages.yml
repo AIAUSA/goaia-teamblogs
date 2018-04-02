@@ -1,5 +1,10 @@
 ---
 pages:
+- _pages/oppoortunity/blog/x-project/index.md
+- _pages/tennis/teamblogs/index.md
+- _pages/oppoortunity/blog/south-africa-spring-break/index.md
+- _pages/oppoortunity/blog/baseball/index.md
+- _pages/golf/teamblogs/index.md
 - _pages/oppoortunity/blog/sports-performance/sports-perfomance-armenia/index.md
 hide_body: false
 fields:
