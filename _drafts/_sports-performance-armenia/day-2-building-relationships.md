@@ -18,4 +18,6 @@ Our prayer is to be used by God to be a a positive influence on both the wrestle
 
 * Paul for the team
 
-![](/uploads/2018/04/02/Doug Teaching-Blog.jpg)![](/uploads/2018/04/02/Physical Institute Day 1-Blog.jpg)
+![](/uploads/2018/04/02/Physical Institute Day 1-Blog.jpg)
+
+![](/uploads/2018/04/02/Doug Teaching-Blog.jpg)
