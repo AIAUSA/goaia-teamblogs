@@ -15,4 +15,6 @@ All in all what really opened my eyes was initially looking deeper and seeing th
 
 * Noah for the team (Noy means Noah in Armenian!).
 
-![](/uploads/2018/04/02/Noah Water-Blog.jpg)![](/uploads/2018/04/02/Genocide Museum Tour-Blog.jpg)
+![](/uploads/2018/04/02/Genocide Museum Tour-Blog.jpg)
+
+![](/uploads/2018/04/02/Noah Water-Blog.jpg)
