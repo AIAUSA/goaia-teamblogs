@@ -1,0 +1,155 @@
+<div id="wrapper">
+    <header id="header" role="banner">
+        <div class="collapse navbar-white special-for-mobile" id="header-search-form">
+            <div class="container">
+                <div class="container">
+                    <form class="navbar-form animated fadeInDown" action="/search" role="search">
+                        <input type="search" id="q" name="q" class="form-control" placeholder="Search in here...">
+                        <button type="submit" class="btn-circle" title="Search"><i class="fa fa-search"></i></button>
+                    </form>
+                </div>
+            </div>
+        </div><!-- End #header-search-form -->
+        <nav class="navbar navbar-white {{ include.color }} animated-dropdown ttb-dropdown sticky-menu" role="navigation">
+            {% include base/top-nav.html %}
+            <div class="navbar-inner">
+                <div class="container">
+                    <div class="navbar-header">
+
+                        <button type="button" class="navbar-toggle btn-circle pull-right collapsed" data-toggle="collapse" data-target="#main-navbar-container">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        <a class="navbar-brand text-uppercase" href="/" title="Athletes In Action"> 
+                            {% if include.color == 'navbar-inverse' %}
+                                <img class="img-responsive" src="/images/athletesinaction-home.svg" alt="AIA"  width="180px" height="68px" />
+                            {% else %}
+                                <img class="img-responsive" src="/images/athletesinaction.svg" alt="AIA"  width="180px" height="68px" />
+                            {% endif %}
+                        </a>
+
+
+
+                        <button type="button" class="navbar-btn btn-icon btn-circle pull-right last visible-sm visible-xs" data-toggle="collapse" data-target="#header-search-form"><i class="fa fa-search"></i></button>
+                    
+                </div><!-- End .navbar-header -->
+
+                <div class="collapse navbar-collapse" id="main-navbar-container">
+                    <ul class="nav navbar-nav">
+                            <li class=""><a href="/">Home</a></li>
+                            <li class="dropdown megamenu-container">
+                              <a href="/about/" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">About<span class="angle"></span></a>
+                                <div class="dropdown-menu megamenu" role="menu">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-sm-3">
+                                              <a href="/about/" class="megamenu-title">Who We Are</a>  
+                                              <ul>
+                                                  <li><a href="/about/">History</a></li>                      
+                                                  <li><a href="/about#vision">Vision & Mission</a></li>
+                                                  <li><a href="/about/beliefs">Statement of Faith</a></li>
+                                                  <li><a href="/about/board">Board of Trustees</a></li>
+                                                  <li><a href="/about#finances">Reports & Financials</a></li>
+                                                  <li><a href="/about/branding">Logo & Branding</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 -->
+                                            <div class="col-sm-3">
+                                              <a href="/careers/" class="megamenu-title">Careers</a>  
+                                              <ul>
+                                                  <li><a href="/careers/">Employment</a></li>
+                                      <li><a href="/careers/full-time">Full-time</a></li>
+                                              <li><a href="/careers/part-time-field-staff">Part-time</a></li>
+                                            <li><a href="/careers/intern">Intern</a></li>
+                                          <li><a href="/careers/stint">STINT</a></li>
+                                                <li><a href="/careers/aiainstitute" target="_new">AIA Institute</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 -->  
+                                            <div class="col-sm-3">
+                                              <a href="#" class="megamenu-title">Discover</a>  
+                                              <ul>
+                                                  <li><a href="/about/media">Media</a></li>
+                                                  <li><a href="/pro/">Pro Ministry</a></li>
+                                                  <li><a href="http://aiasportscomplex.com" target="_new">Sports Complex & Retreat Center</a></li>
+                                                  <li><a href="http://woodenfamilyfieldhouse.com" target="_new">Wooden Family Fieldhouse</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 -->                                                
+                                            <div class="col-sm-3">
+                                              <a href="#" class="megamenu-title">More</a>  
+                                              <ul>
+                                                <li><a href="//resources.athletesinaction.org">Resources</a></li>
+                                                <li><a href="//aiagear.com">AIA Gear</a></li>
+                                                <li><a href="//cru.org">Cru</a></li>
+                                                <li><a href="/contact">Contact</a></li>
+                                              </ul>
+                                            </div><!-- End .col-sm-3 -->                                                
+                                         </div><!-- End .row -->
+                                    </div><!-- End .container -->
+                                </div><!-- End .megamenu -->
+                            </li>
+                                                  <li class=""><a href="/campus/">Campus</a></li>
+                            <li class="dropdown megamenu-container">
+                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-expanded="false">Opportunities<span class="angle"></span></a>
+                                <div class="dropdown-menu megamenu" role="menu">
+                                    <div class="container">
+                                        <div class="row">
+                                            <div class="col-sm-3">
+                                                <span class="megamenu-title">Sports Teams</span>
+                                                <ul>
+                                                    <li><a href="http://aiabaseball.org" target="_new">Baseball</a></li>
+                                                    <li><a href="/basketball/">Basketball</a></li>
+                                                    <li><a href="/football/">Football</a></li>
+                                                    <li><a href="/golf">Golf</a></li>
+                                                    <li><a href="/soccer/">Soccer</a></li>
+                                                    <li><a href="/softball">Softball</a></li>
+                                                    <li><a href="http://aiasportsperformance.org" target="_new">Sports Performance</a></li>
+                                                    <li><a href="/tennis">Tennis</a></li>
+                                                    <li><a href="/track/">Track</a></li>
+                                                    <li><a href="/volleyball/">Volleyball</a></li>
+                                                    <li><a href="/wrestling/">Wrestling</a></li>
+                                                </ul>              </div><!-- End .col-sm-3 -->
+                                            <div class="col-sm-3">
+                                                <span class="megamenu-title">Projects</span>
+                                                <ul>
+                                                  <li><a href="/opportunity/boston-project">Boston Project</a></li>
+                                                  <li><a href="/opportunity/east-asia-project">East Asia Project</a></li>
+                                                    <li><a href="http://www.puertoricoproject.com/" target="_new"> Extreme Challenge Puerto Rico </a></li>
+                                                  <li><a href="/opportunity/south-africa-project">South Africa Project</a></li>
+                                                  <li><a href="http://www.urbanprojectinternational.com/" target="_blank">Urban Project - Los Angeles</a></li>
+                                                    <li><a href="/opportunity/x-project">X Project Internship</a></li>
+                                                  <li>&nbsp;</li>
+                                                  <li><a href="/partnership">Partnership Countries</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 -->
+                                            <div class="col-sm-3">
+                                                <span class="megamenu-title">Camps & Retreats</span>
+                                                <ul>
+                                                  <li><a href="http://ultimatetrainingcamp.com" target="_blank">Ultimate Training Camp <br /> &nbsp; &nbsp; College & High School</a></li>
+                                                  <li><a href="/opportunity/springbreak">Spring Break</a></li>
+                                                    <li><a href="https://aiawinterretreat.com">Winter Retreats</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 --> 
+                                            <div class="col-sm-3">
+                                                <span class="megamenu-title">Event Series</span>
+                                                <ul>
+                                                  <li><a href="http://superbowlbreakfast.com" target="_blank">Super Bowl Breakfast</a></li>
+                                                  <li><a href="http://allstarbreakfast.com" target="_blank">All Star Breakfast</a></li>
+                                                  <li><a href="http://legendsbreakfast.net" target="_blank">Legends Breakfast</a></li>
+                                                  <li><a href="http://aianightofchampions.com" target="_blank">Night of Champions</a></li>
+                                                </ul>
+                                            </div><!-- End .col-sm-3 -->                                                
+                                        </div><!-- End .row -->
+                                    </div><!-- End .container -->
+                                </div><!-- End .megamenu -->
+                            </li>
+                            <li class=""><a href="/give">Give</a></li>         
+                    </ul>
+                    
+                    <button type="button" class="navbar-btn btn-icon btn-circle navbar-right last  hidden-sm hidden-xs" data-toggle="collapse" data-target="#header-search-form"><i class="fa fa-search"></i></button>
+                    
+                    
+            </div><!-- /.navbar-collapse -->
+        </div><!-- /.container -->
+            </div><!-- End .navbar-inner -->
+        </nav>
+    </header><!-- End #header -->
