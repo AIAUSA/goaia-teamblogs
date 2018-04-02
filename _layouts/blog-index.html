@@ -56,13 +56,13 @@ layout: default
                         <h3>All Teams</h3>
                         <ul class="links">
                         {% for c in site.collections %}
-                            {% if c.title != "AIA Team Blogs" %}
+                            {% if c.title != "AIA Team Blogs" and c.docs.size > 0 %}
                                 {% if page.filter %}
                                     {% if c.label contains page.filter %}
-                                    <li><a href="{{c.permalink | remove: ":collection/:year/:path" | append: c.label }}">{{ c.title }}</a></li>
+                                    <li><a href="{{c.permalink | remove: ":collection/:year/:path" | append: c.label }}">{{ c.title }} ({{c.docs.size}})</a></li>
                                     {% endif %}
                                 {% else %}
-                                    <li><a href="{{c.permalink | remove: ":collection/:year/:path" | append: c.label }}">{{ c.title }}</a></li>
+                                    <li><a href="{{c.permalink | remove: ":collection/:year/:path" | append: c.label }}">{{ c.title }} ({{c.docs.size}})</a></li>
                                 {% endif %}
                             {% endif %}
                         {% endfor %}

@@ -1,11 +1,11 @@
 ---
-title: Football 
+title: Baseball
 date: 2018-02-21 19:15:00 Z
-permalink: "/football/teamblogs/"
+permalink: "/opportunity/blog/baseball/blog/"
 pagination:
   enabled: true
   collection: none
 layout: blog-index
-filter: football
+filter: baseball
 ---
 
