@@ -16,4 +16,6 @@ Paul and Doug stayed at the New Life Armenia ministry headquarters to teach on c
 
 Our prayer is to be used by God to be a a positive influence on both the wrestlers and the sport doctors so they can impact their country, and also those countries around them. By serving them in this way, we share the love of Christ with them, and open doors for our Armenian staff to follow up on the relationships we have built.
 
-![](/uploads/2018/03/31/IMG_4061.JPG)
+* Paul for the team
+
+![](/uploads/2018/04/02/Doug Teaching-Blog.jpg)![](/uploads/2018/04/02/Physical Institute Day 1-Blog.jpg)
