@@ -17,8 +17,8 @@ Just a note here about our MVP's ("Most Valued People"). Without our interpreter
 
 * AIA Sports Performance Armenia
 
-![](/uploads/2018/04/02/Pastor Praying-Blog.jpg)Above: Pastor praying to open Easter Sunday services.
-
-Below: AIA Volunteers honor Tigran and Paul.
+Below: Pastor praying to open Easter Sunday services. / AIA Volunteers honor Tigran and Paul.
 
 ![](/uploads/2018/04/02/David honors Tigran and Paul-Blog-1.jpg)
+
+![](/uploads/2018/04/02/Pastor Praying-Blog.jpg)
