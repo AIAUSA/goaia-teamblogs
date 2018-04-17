@@ -1,14 +1,14 @@
 ---
 hide_body: false
+is_partial: false
 fields:
-- type: text
- label: Title
- name: title
- config:
-   required: true
-- type: text
- name: layout
- label: layout
- description: blog-page
- hidden: true
- default: blog-page
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: blog-page

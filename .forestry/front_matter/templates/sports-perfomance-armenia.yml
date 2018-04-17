@@ -6,6 +6,7 @@ pages:
 - _sports-performance-armenia/day-4-easter-celebration.md
 - _sports-performance-armenia/day-3-connecting-to-a-culture.md
 hide_body: false
+is_partial: false
 fields:
 - name: byLine
   label: Byline

@@ -4,6 +4,7 @@ pages:
 - _basketball-poland/poland-rocks.md
 - _basketball-poland/polish-sausage.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Title

@@ -4,6 +4,7 @@ pages:
 - _basketball-poland/test-6.md
 - _basketball-poland/poland-5.md
 hide_body: false
+is_partial: false
 fields:
 - type: text
   label: Title
