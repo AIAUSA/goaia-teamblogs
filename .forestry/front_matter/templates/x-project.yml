@@ -1,0 +1,14 @@
+---
+hide_body: false
+fields:
+- type: text
+ label: Title
+ name: title
+ config:
+   required: true
+- type: text
+ name: layout
+ label: layout
+ description: blog-page
+ hidden: true
+ default: blog-page

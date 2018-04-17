@@ -25,6 +25,10 @@ collections:
     title: UTC High School
     output: true
     permalink: "/opportunity/blog/:collection/:year/:path"
+  x-project:
+    title: X-Project
+    output: true
+    permalink: "/opportunity/blog/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
@@ -68,6 +72,12 @@ defaults:
 - scope:
     path: ''
     type: utc-high-school
+  values:
+    byLine: ''
+    layout: blog-page
+- scope:
+    path: ''
+    type: x-project
   values:
     byLine: ''
     layout: blog-page
