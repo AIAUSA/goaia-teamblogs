@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Looking Back to see What God has Done
 layout: blog-page
 filter: sports-performance
 title: 'Reflections! '
