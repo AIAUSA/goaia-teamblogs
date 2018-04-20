@@ -6,7 +6,7 @@ date: 2018-04-19 15:36:10 -0400
 ---
 Hi! Welcome to the blog for Athletes in Action X Project 2018!
 
-I'm so excited to tell y'all that we have 35 days until students arrive in Xenia, Ohio for X Project!
+I'm so excited to tell y'all that we have 34 days until students arrive in Xenia, Ohio for X Project!
 
 You might be wondering what exactly is X Project? Well, let me fill you in on what will be happening here this summer.
 
