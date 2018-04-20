@@ -21,7 +21,7 @@ _Blessings,_
 
 _Tigran & Lusine_
 
-Photos Below, Left to Right: Tigran and Lusine / John Peterson sharing his testimony with some of the Garni wrestlers / Pray that God continues to open these gates for ministry at the Armenian Olympic Training Facility!
+Photos Below, Top Left: John Peterson sharing his testimony with some of the Garni wrestlers / Bottom Left: Pray that God continues to open these gates for ministry at the Armenian Olympic Training Facility! / Right: Tigran and Lusine
 
 ![](/uploads/2018/04/20/Tigran & Lusine-Blog.jpg)
 
