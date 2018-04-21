@@ -15,9 +15,7 @@ Here is the text of an email I received from our Armenia staff a week after we l
 
 _Yesterday I was in Garni. A massive wrestling tournament was being held there. 300 people were present. I gave them the gifts that your team left. They were very happy to see me and invited me to visit them again. I will send you some pictures later. John Peterson has opened wonderful doors of opportunity for us._
 
-_2 students from the Physical Institute have expressed desire and willingness to join us as volunteers!_
-
-_Thank you very much for helping us promote and accelerate our ministry. We greatly appreciate your efforts and are thankful to God for you.  Would you please send me John Peterson's email address? I want to send him an email as well to thank him and encourage him by letting him know how God has been working through his ministry._
+_2 students from the Physical Institute have expressed desire and willingness to join us as volunteers! Thank you very much for helping us promote and accelerate our ministry. We greatly appreciate your efforts and are thankful to God for you.  Would you please send me John Peterson's email address? I want to send him an email as well to thank him and encourage him by letting him know how God has been working through his ministry._
 
 _Blessings,_
 
