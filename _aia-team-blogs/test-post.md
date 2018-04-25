@@ -4,7 +4,11 @@ layout: blog-page
 title: test post
 date: 2018-04-25 10:28:54 -0400
 ---
-... to bring it all together?
+### ... to bring it all together?
+
+![](/uploads/2018/04/25/Screen Shot 2018-04-25 at 9.01.55 AM.png)
+
+**What:**  High School Ultimate Training Camp (UTC)
 
 **Where:**  [Athletes in Action Total Athlete Complex](https://www.google.com/maps/place/Athletes+In+Action+Sports+Complex/@39.8647416,-84.9126994,7.71z/data=!4m2!3m1!1s0x0:0xfb182e81931c85d9)
 
@@ -15,3 +19,5 @@ The [Ultimate Training Camp](http://www.ultimatetrainingcamp.com/) (UTC) is a hi
 Historically available only for college and pro athletes, Athletes in Action is partnering with [Cru High School](http://www.cruhighschool.com/) to offer this unique, life-changing opportunity to high school athletes! Participants will learn [five biblical principles](http://www.ultimatetrainingcamp.com/utc-principles) that deal with issues like motivation, attitude, perseverance, winning and losing.
 
 Controlled competitive challenges will engage the athletes in applying what they’ve learned. The UTC will challenge athletes physically, spiritually, and mentally, while developing a leadership framework that will change the way they look at life and competition.
+
+[](http://teamblogs.athletesinaction.org/teams-2016/2016/basketball---coaches-guatemala)
