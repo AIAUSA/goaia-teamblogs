@@ -4,7 +4,9 @@ layout: blog-page
 title: Meet the Holmstroms!
 date: 2018-04-26 19:24:48 -0400
 ---
-![](/uploads/2018/04/27/holmstroms.jpg)We are the Holmstroms. As of December 2, 2017, we became a family of 3 as we welcomed the birth of our first son, Kyson.
+![](/uploads/2018/04/27/holmstroms.jpg)
+
+We are the Holmstroms. As of December 2, 2017, we became a family of 3 as we welcomed the birth of our first son, Kyson.
 
 Jenny loves to be outside and would love for you to ask her to go for a walk. She is also the world's best mother... I'm not biased or anything. Jenny attended North Central University in Minneapolis, MN, where she studied Communications.
 
