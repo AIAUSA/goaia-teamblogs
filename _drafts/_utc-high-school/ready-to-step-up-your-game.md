@@ -30,9 +30,11 @@ For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@ath
 
 ### [**Ready to Register?**]()
 
-Rick for the HSUTC Team
+**_Rick for the HSUTC Team_**
 
-\#UTCXenia     #UTCstory
+---
+
+#### **#UTCXenia     #UTCstory**
 
 Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
 
