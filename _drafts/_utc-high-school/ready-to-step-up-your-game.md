@@ -2,13 +2,13 @@
 byLine: High School athletes, make the summer count!
 layout: blog-page
 title: Ready to step up your game?
-date: 2018-05-01 11:52:37 -0400
+date: 2018-05-01 15:52:37 +0000
 ---
 ![](/uploads/2018/05/01/HS UTC 2018 Image.jpg)
 
 **Who:**  High School athletes who aspire to compete on their sport's varsity team or take their game to the next level.
 
-**Where:**  Athletes in Action Total Athlete Complex
+**Where:**  Athletes in Action Total Athlete Complex (Xenia, OH)
 
 **When:**  June 24 - 30, 2018
 
