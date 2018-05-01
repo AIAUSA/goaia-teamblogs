@@ -15,3 +15,16 @@ date: 2018-05-01 14:53:34 -0400
 **My Role:**  "I make sure this thing runs."
 
 **Why am I excited about the HS UTC?**  "I am excited to be a part of the UTC because I have seen what God can do in just a weeks time in the lives of these student athletes.  I am always in awe of how He answers the prayers that we have prayed throughout the year for these athletes.  _I love seeing athletes "get it"_.  There are light bulbs that come on during the week that allows them to start seeing how they can worship the Lord through their sport.  That never gets old!  I am honestly praying that myself and our staff work hard to make this the best camp it can be, but that we'd also "get out of the way" and let the Lord do His thing in these athlete's lives."
+
+For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
+
+### [**Ready to Register?**]()
+
+---
+
+#### **#UTCXenia     #UTCstory**
+
+Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)  
+Follow us on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
