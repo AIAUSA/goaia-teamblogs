@@ -29,6 +29,18 @@ collections:
     title: X-Project
     output: true
     permalink: "/opportunity/blog/:collection/:year/:path"
+  track-canary:
+    title: Track - Canary Islands
+    output: true
+    permalink: "/track/teamblogs/:collection/:year/:path"
+  track-switzerland:
+    title: Track - Switzerland
+    output: true
+    permalink: "/track/teamblogs/:collection/:year/:path"
+  track-tuff:
+    title: Track - Tuff Camp
+    output: true
+    permalink: "/track/teamblogs/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
