@@ -4,9 +4,9 @@ layout: blog-page
 title: What's all the hype about?
 date: 2018-05-01 13:36:49 -0400
 ---
-As a high school athlete you are familiar with the "hype" around the game.
+As a high school athlete you are familiar with the buzz and emotion around the game.
 
-Do you want to move beyond the hype and emotion of the game?
+Are you ready to step your game up?
 
 ### **If your answer is yes, consider this:**
 
