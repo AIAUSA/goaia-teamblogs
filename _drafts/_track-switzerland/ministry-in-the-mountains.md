@@ -13,6 +13,4 @@ St Moritz is a mountain village sitting at 6000 feet which is relaxed and friend
 
 This mission has developed over the past few years by building the reputation of Athletes in Action as a group which serves the needs of athletes well. The openness and trust of our hosts and of AIA in general has grown stronger. Conversations around the track, and village have become more numerous and more open. The participation in the discussions has increased as well over the past couple years. We are excited to see the response to the track side devotions this summer.
 
-![](/uploads/2018/05/02/Team Swiss 2.jpg)
-
-![](/uploads/2018/05/02/Top of the World logo.jpg)
+![](/uploads/2018/05/02/Team Swiss 2.jpg)![](/uploads/2018/05/02/Top of the World logo.jpg)
