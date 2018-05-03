@@ -10,6 +10,8 @@ after_success:
   - s3_website push
 notifications:
     slack: aiacc:DQJx1jxSipYMHzXBVtf4kMGH
+      on_success: change # default: always
+      on_failure: always # default: always
 env:
   global:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true # speeds up installation of html-proofer
