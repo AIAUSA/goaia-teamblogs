@@ -10,7 +10,7 @@ date: 2018-05-02 13:55:04 -0400
 
 **Mark's Staff Role:**  Ann Arbor Team Leader - High School
 
-"I work with local churches/ministries to give teens a chance to hear the gospel.  Many are the best U17 and U18 hockey players in the country.  We have the blessing and opportunity to expose these talented athletes to the gospel, disciple them, and send them out to change the hockey community and the world with the gospel."
+"Our vision is that all teens in Ann Arbor hear about Jesus and have a chance to respond to the gospel.  I partner with local churches and ministries in the area to make this happen.  In addition, I lead a movement on a high profile hockey team.  These young men are some of the best young hockey players in the country.  We have the blessing and opportunity to expose these talented athletes to the gospel, disciple them, and send them out to change the hockey community and the world with the gospel."
 
 **My UTC Role:**  Assistant to the Program Director & SPECIAL Coordinator
 
