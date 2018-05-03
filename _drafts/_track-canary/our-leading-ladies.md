@@ -5,6 +5,7 @@ filter: track
 date: 2018-05-03 09:08:55 -0400
 byLine: ''
 ---
+
 Lauren will serve the Canary Island's team as the team discipler. She graduated from Sacramento State University in 2017 and has been interning with AIA at Sac State. She was a thrower and has an extreme sugar addiction and loves lifting weights!
 
 She is looking forward to bringing one of her disciples with her on the trip and living out the Great Commission together (Matthew 28:18-20). She is also excited to experience a new culture and learning more about God's character and who He is through His people.
