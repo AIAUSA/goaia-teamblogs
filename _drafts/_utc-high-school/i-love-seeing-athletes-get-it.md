@@ -10,7 +10,7 @@ date: 2018-05-01 14:53:34 -0400
 
 **Erin's Staff Role:** (left) is the Ministry Director for the Sports Complex and Retreat Center in Xenia, OH.
 
-"I work on making sure there are ministry touch points happening with the 114,000+ people who come through the sports complex and retreat center each year.  This could be anything from welcoming a group on the property by sharing about Athletes in Action and what we do to sharing our Biblical principles with groups who are here for an extended period of time.  I also have the privilege of directing the HS UTC for the 4th year in a row.  I work with a team of people for a year to plan and prepare to make this camp experience the best it can be for these high school athletes."
+"I work on making sure there are ministry touchpoints happening with the 114,000+ people who come through the sports complex and retreat center each year.  This could be anything from welcoming a group on the property by sharing about Athletes in Action and what we do, to sharing our Biblical principles with groups who are here for an extended period of time.  I also have the privilege of directing the HS UTC for the 4th year in a row.  I work with a team of people for a year to plan and prepare to make this camp experience the best it can be for these high school athletes."
 
 **My UTC Role:**  "I make sure this thing runs."
 
