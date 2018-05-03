@@ -13,6 +13,6 @@ Here are specific ways you can be praying for him as he prepares: "This year, I 
 
 Paul will be taking his fifth trip to the islands! He keeps going back for a very simple reason:
 
-"I believe that this is a unique calling from God. Seems cliche and possibly corny, but why do anything if it's not His desire? Being faithful, obedient, and willingly available is what matters." 
+"I believe that this is a unique calling from God. Seems cliche and possibly corny, but why do anything if it's not His desire? Being faithful, obedient, and willingly available is what matters."
 
-Being a believer, Christ follower, and long time AIA member, he views it an honor and privilege to serve the team, and prayerfully, he will be able to mentor, support, and encourage each team member.  
+Being a believer, Christ follower, and long time AIA member, he views it an honor and privilege to serve the team, and prayerfully, he will be able to mentor, support, and encourage each team member.
