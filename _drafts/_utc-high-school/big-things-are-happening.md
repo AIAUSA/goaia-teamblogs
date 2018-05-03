@@ -18,8 +18,6 @@ Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.ril
 
 ### [**Ready to Register?**]()
 
-**_Rick for the HSUTC Team_**
-
 ---
 
 #### **#UTCXenia     #UTCstory**
