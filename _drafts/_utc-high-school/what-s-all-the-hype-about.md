@@ -4,9 +4,9 @@ layout: blog-page
 title: What's all the hype about?
 date: 2018-05-01 13:36:49 -0400
 ---
-As a high school athlete you are familiar with the buzz and emotion around the game.
+As a high school athlete you are familiar with the buzz and emotion around the game.  However, you know there's much more.  You are preparing lifetime of competition.
 
-Are you ready to step your game up?
+**Are you ready to step your game up?**
 
 ### **If your answer is yes, consider this:**
 
