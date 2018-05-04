@@ -18,7 +18,7 @@ Historically available only for college and pro athletes, Athletes in Action is 
 
 Controlled competitive challenges will engage the athletes in applying what they’ve learned. The UTC will challenge athletes physically, spiritually, and mentally, while developing a leadership framework that will change the way they look at life and competition.
 
-**Why?:**
+**Why? Listen to some HS UTC Alumni:**
 
 * _“No matter what happens in your sport, you don’t ever lose your relationship with God.”_
 * _“No matter what the obstacle, I can persevere because of God.”_
