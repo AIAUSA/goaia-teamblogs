@@ -14,7 +14,7 @@ date: 2018-05-02 13:55:04 -0400
 
 **My UTC Role:**  Assistant to the Program Director & SPECIAL Coordinator
 
-**Why am I excited about the HS UTC?:**  "I love the UTC!  As an athlete growing up, I never knew the principles the UTC teaches.  I was playing for all the wrong reasons and motivations.  That is why I want to share with these young athletes coming to the camp.  What they will go through at the UTC will change their lives forever!
+**Why am I excited about the HS UTC?:**  "I love the UTC!  As an athlete growing up, I never knew [the principles the UTC teaches](http://www.ultimatetrainingcamp.com/utc-principles).  I was playing for all the wrong reasons and motivations.  That is why I want to share with these young athletes coming to the camp.  What they will go through at the UTC will change their lives forever!
 
 They will compete at a higher level and experience a new joy and freedom in life and sport.  I can't wait to see what God does in this years athletes".
 
