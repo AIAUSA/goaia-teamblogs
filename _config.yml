@@ -41,6 +41,10 @@ collections:
     title: Track - Tuff Camp
     output: true
     permalink: "/track/teamblogs/:collection/:year/:path"
+  soccer-portugal:
+    title: Soccer - Men Portugal
+    output: true
+    permalink: "/soccer/teamblogs/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
@@ -93,6 +97,34 @@ defaults:
   values:
     byLine: ''
     layout: blog-page
+- scope:
+    path: ''
+    type: soccer-portugal
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: soccer
+- scope:
+    path: ''
+    type: track-tuff
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: track
+- scope:
+    path: ''
+    type: track-canary
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: track
+- scope:
+    path: ''
+    type: track-switzerland
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: track
 include:
 - _pages
 exclude:
