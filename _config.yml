@@ -14,6 +14,10 @@ collections:
     title: Basketball - Poland
     output: true
     permalink: "/basketball/teamblogs/:collection/:year/:path"
+  basketball-ethopia:
+    title: Basketball - ethopia
+    output: true
+    permalink: "/basketball/teamblogs/:collection/:year/:path"
   aia-team-blogs:
     title: AIA Team Blogs
     output: false
@@ -73,7 +77,7 @@ defaults:
     filter: basketball
 - scope:
     path: ''
-    type: basketball-test
+    type: basketball-ethopia
   values:
     byLine: ''
     layout: blog-page
