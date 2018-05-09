@@ -10,11 +10,11 @@ date: 2018-05-02 13:55:04 -0400
 
 **Mark's Staff Role:**  Ann Arbor Team Leader - High School
 
-"I work with local churches/ministries to give teens a chance to hear the gospel.  Many are the best U17 and U18 hockey players in the country.  We have the blessing and opportunity to expose these talented athletes to the gospel, disciple them, and send them out to change the hockey community and the world with the gospel."
+"Our vision is that all teens in Ann Arbor hear about Jesus and have a chance to respond to the gospel.  I partner with local churches and ministries in the area to make this happen.  In addition, I lead a movement on a high profile hockey team.  These young men are some of the best young hockey players in the country.  We have the blessing and opportunity to expose these talented athletes to the gospel, disciple them, and send them out to change the hockey community and the world with the gospel."
 
 **My UTC Role:**  Assistant to the Program Director & SPECIAL Coordinator
 
-**Why am I excited about the HS UTC?:**  "I love the UTC!  As an athlete growing up, I never knew the principles the UTC teaches.  I was playing for all the wrong reasons and motivations.  That is why I want to share with these young athletes coming to the camp.  What they will go through at the UTC will change their lives forever!
+**Why am I excited about the HS UTC?:**  "I love the UTC!  As an athlete growing up, I never knew [the principles the UTC teaches](http://www.ultimatetrainingcamp.com/utc-principles).  I was playing for all the wrong reasons and motivations.  That is why I want to share with these young athletes coming to the camp.  What they will go through at the UTC will change their lives forever!
 
 They will compete at a higher level and experience a new joy and freedom in life and sport.  I can't wait to see what God does in this years athletes".
 
@@ -28,5 +28,4 @@ For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@ath
 
 Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
 
-More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)  
-Follow us on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)

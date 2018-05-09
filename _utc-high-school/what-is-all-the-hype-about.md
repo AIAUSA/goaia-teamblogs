@@ -1,8 +1,8 @@
 ---
 byLine: Elevate not just your game, but your life!
 layout: blog-page
-title: What's all the hype about?
-date: 2018-05-01 13:36:49 -0400
+title: What is all the hype about?
+date: 2018-05-07 09:26:56 -0400
 ---
 As a high school athlete you are familiar with the buzz and emotion around the game.  However, you know there's much more.  You are preparing lifetime of competition.
 
@@ -30,5 +30,4 @@ Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.ril
 
 Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
 
-More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)  
-Follow us on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)

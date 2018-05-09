@@ -8,7 +8,7 @@ date: 2018-05-02 15:36:48 -0400
 
 **![](/uploads/2018/05/02/HS UTC 2018 Keith Ray Screen shot-1.png)Keith's Staff Role:**  Team Leader for Cru HS & MS in Cincinnati, OH
 
-"I oversee the Win-Build-Send ministry throughout the city and the training of our volunteers and staff, along with fund development."
+"I oversee the Win-Build-Send ministry throughout the city and the training of our volunteers and staff, along with fund development."  Reaching students for Christ.  Then helping them grow through bible studies and mentoring.  Finally, sending them out into their world to share the gospel as they live their lives."
 
 **Keith's UTC Role:**  Leading outreach each day and small group leader
 
@@ -24,5 +24,4 @@ For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@ath
 
 Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
 
-More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)  
-Follow us on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)
