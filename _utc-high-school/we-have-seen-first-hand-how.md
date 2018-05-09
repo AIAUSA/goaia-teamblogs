@@ -15,7 +15,7 @@ published: false
 
 **Our HS UTC Roles:**  Assist in coordinating several camp events and leading athlete small groups.  We fill the gaps!
 
-**Why we excited about the HS UTC?:**  "We are thrilled to be a part of it again this year, because we have seen first-hand how impactful it can be for these young athletes. Teaching the 5 Principles to teenagers has the potential to not only bring their involvement in sports to the next level in high school, but also to carry on through college and beyond, as these are actually life principles."
+**Why we excited about the HS UTC?:**  "We are thrilled to be a part of it again this year, because we have seen first-hand how impactful it can be for these young athletes. Teaching [the 5 Principles](http://www.ultimatetrainingcamp.com/utc-principles) to teenagers has the potential to not only bring their involvement in sports to the next level in high school, but also to carry on through college and beyond, as these are actually life principles."
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
