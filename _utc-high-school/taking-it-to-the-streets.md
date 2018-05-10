@@ -11,7 +11,7 @@ published: false
 
 "I oversee the Win-Build-Send ministry throughout the city and the training of our volunteers and staff, along with fund development.  Reaching students for Christ.  Then helping them grow through bible studies and mentoring.  Finally, sending them out into their world to share the gospel as they live their lives."
 
-**Keith's UTC Role:**  Co-leading outreach each day and small group leader
+**Keith's UTC Role:**  Co-leading outreach each day , speaker, and small group leader
 
 **Why am I excited about the HS UTC?:**  "I am praying for each day we leave camp to go out into the community for outreach that we will get the opportunity to proclaim the Good News and see many people in the surrounding community trust Christ as their Lord and Savior."
 
