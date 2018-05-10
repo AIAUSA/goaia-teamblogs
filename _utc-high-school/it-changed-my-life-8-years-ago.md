@@ -13,7 +13,7 @@ published: false
 
 "I plan special events for staff and students in the Great Lakes Region (such as the Winter Retreat and Regional Leadership Conference). I also support our staff so that more people can hear about the hope of Jesus on the campus, in the community and around the world."
 
-**Kate's UTC Role:**  "Program & AV Director"
+**Kate's UTC Role:**  Program & AV Director
 
 **Why am I excited about the HS UTC?:**  "I'm excited to be part of the high school UTC because God uses the UTC to shape people into fearless worshipers of Jesus through this camp.
 
