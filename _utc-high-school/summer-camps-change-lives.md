@@ -11,7 +11,7 @@ published: false
 
 **Jeff's Staff Role:**  Local Team Lead for Dallas Metro. Hub Campus is SMU (Southern Methodist University)
 
-"???"
+"My role with AIA is building community with staff, coaches and players to lead their respective teams in "win, build, send" spiritual movements that Glorify the Lord."
 
 **Jeff's UTC Role:**  Pre Camp Training and Principle Speaker
 
