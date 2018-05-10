@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Ethiopia Women's Basketball
 layout: blog-page
 filter: basketball
 title: Meet the Coaching Staff - Jacklyn Stewart
