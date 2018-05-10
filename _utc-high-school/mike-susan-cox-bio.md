@@ -5,7 +5,7 @@ title: Mike, Susan Cox Bio
 date: 2018-05-10 10:15:41 -0400
 published: false
 ---
-### Meet the AIA High School ???
+### Meet the AIA High School Outreach Co-Leaders
 
 ![](/uploads/2018/05/10/HS UTC 2018 Coxs Bio.jpg)
 
