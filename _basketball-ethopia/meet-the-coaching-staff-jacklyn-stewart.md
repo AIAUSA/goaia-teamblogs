@@ -4,11 +4,8 @@ layout: blog-page
 filter: basketball
 title: Meet the Coaching Staff - Jacklyn Stewart
 date: 2018-05-10 11:29:18 -0400
-published: false
 ---
-![](/uploads/2018/05/10/AIA Jackie Stewart.jpg)
-
-Athletes in Action is very grateful and excited to welcome Jacklyn Stewart of Desales University to serve as both an assistant coach and player on our Ethiopia Women's Basketball Tour. Get to know her more below!
+![](/uploads/2018/05/10/AIA Jackie Stewart.jpg)Athletes in Action is very grateful and excited to welcome Jacklyn Stewart of Desales University to serve as both an assistant coach and player on our Ethiopia Women's Basketball Tour. Get to know her more below!
 
 About Jackie:
 
