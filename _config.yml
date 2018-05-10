@@ -15,7 +15,15 @@ collections:
     output: true
     permalink: "/basketball/teamblogs/:collection/:year/:path"
   basketball-ethopia:
-    title: Basketball - ethopia
+    title: Basketball - Ethopia
+    output: true
+    permalink: "/basketball/teamblogs/:collection/:year/:path"
+  basketball-new-zealand:
+    title: Basketball - New Zealand
+    output: true
+    permalink: "/basketball/teamblogs/:collection/:year/:path"
+  basketball-czech-spain:
+    title: Basketball - Czech/Spain
     output: true
     permalink: "/basketball/teamblogs/:collection/:year/:path"
   aia-team-blogs:
@@ -78,6 +86,20 @@ defaults:
 - scope:
     path: ''
     type: basketball-ethopia
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: basketball
+- scope:
+    path: ''
+    type: basketball-new-zealand
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: basketball
+- scope:
+    path: ''
+    type: basketball-czech-spain
   values:
     byLine: ''
     layout: blog-page
