@@ -5,7 +5,7 @@ title: Stuart G's Bio
 date: 2018-05-10 11:15:54 -0400
 published: false
 ---
-### Meet the AIA High School UTC ???
+### Meet the AIA High School UTC Director of Operations
 
 ![](/uploads/2018/05/10/2018 HS UTC Stuart Bio.jpg)
 
