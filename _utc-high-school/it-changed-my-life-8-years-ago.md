@@ -5,7 +5,7 @@ title: It changed my life 8 years ago!
 date: 2018-05-02 15:08:56 -0400
 published: false
 ---
-### Meet the HS UTC ???
+### Meet the HS UTC Program & AV Director
 
 ![](/uploads/2018/05/02/HS UTC 2018 Kate.png)
 
