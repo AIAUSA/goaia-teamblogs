@@ -2,7 +2,7 @@
 byLine: ''
 layout: blog-page
 filter: basketball
-title: Meet the Players
+title: Meet the Players - Amanda Fioravanti
 date: 2018-05-09 21:14:42 -0400
 ---
 > ![](/uploads/2018/05/10/IMG_1088.jpg)
