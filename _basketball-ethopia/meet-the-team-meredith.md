@@ -11,7 +11,6 @@ About Meredith...
 University: Valparaiso University   
 Major: Public Relations   
 Position: Shooting Guard   
-Fave Basketball Player: Steph Curry/John Stockton   
-Favorite Food: salmon and mashed potatoes
+Fave Basketball Player: Steph Curry/John Stockton 
 
 > I am looking forward to serving others and for God to use me and open my eyes to the different cultures and what their lives are like.
