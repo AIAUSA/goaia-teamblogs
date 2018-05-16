@@ -2,7 +2,7 @@
 byLine: ''
 layout: blog-page
 filter: soccer
-title: We've Arrived- Grady H.
+title: We've Arrived
 date: 2018-05-16 13:15:43 -0400
 ---
 Today was an incredible first start to our tour in Barcelona. We took off from JFK and landed in Barcelona around 730 AM. We immediately hopped on a bus and drove to our training facility where we had our first session of the tour. During the session the guys were able to get a good start by getting some quality touches and possession going to loosen up our legs. We bussed backed to our hostel where we checked in our luggage to our rooms and had a makeshift lunch of break, ham and cheese sandwiches. So far on this trip everybody has done a great job of being adaptable.
