@@ -6,6 +6,8 @@ title: 'Day Two- Today Was A Grind '
 date: 2018-05-17 16:50:21 -0400
 ---
 
+![](/uploads/2018/05/17/Asa St. Lawrence.jpg)
+
 Praise the Lord for a great and safe trip thus far. His hand has been evident in every step we have taken. The much anticipated arrival of Toba and Ben has occurred! After sleeping over night in the Charlotte airport and thus conquering his fear of airports, Toba and Ben made it to Barcelona this morning. Unfortunately, Coach K's flight was delayed once again. Please pray for his safe and haste arrival.
 
 This morning started very early for this Barcelona group. A savory 7am breakfast satisfied our needs. Breakfast was followed by an excellently teaching of "Principle 1" by Ryan Matthews. Principle 1 is titled 'Audience of One' and asks the question, who or what do you worship?
