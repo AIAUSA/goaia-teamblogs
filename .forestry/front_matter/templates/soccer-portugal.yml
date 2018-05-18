@@ -1,9 +1,4 @@
 ---
-pages:
-- _soccer-portugal/prepping-for-takeoff.md
-- _soccer-portugal/day-two-today-was-a-grind.md
-- _soccer-portugal/we-ve-arrived-grady-h.md
-- _soccer-portugal/ready-for-takeoff.md
 hide_body: false
 is_partial: false
 fields:
@@ -18,3 +13,8 @@ fields:
   description: blog-page
   hidden: true
   default: blog-page
+pages:
+- _soccer-portugal/prepping-for-takeoff.md
+- _soccer-portugal/day-two-today-was-a-grind.md
+- _soccer-portugal/we-ve-arrived-grady-h.md
+- _soccer-portugal/ready-for-takeoff.md

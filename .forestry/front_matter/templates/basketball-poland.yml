@@ -1,16 +1,4 @@
 ---
-pages:
-- _basketball-poland/meet-the-coaches-josh-thompson.md
-- _basketball-poland/meet-the-players-morgan-ham.md
-- _basketball-poland/meet-the-players-janay-morton.md
-- _basketball-poland/meet-the-players-kristina-rumplasch.md
-- _basketball-poland/meet-the-players-sierra-jones.md
-- _basketball-poland/meet-the-players-kori-west.md
-- _basketball-poland/meet-the-players-kelsey-key.md
-- _basketball-poland/meet-the-players-megan-brown.md
-- _basketball-poland/meet-the-players-kaylee-stroemple.md
-- _basketball-poland/meet-the-players-paige-barrett.md
-- _basketball-poland/player-introductions.md
 hide_body: false
 is_partial: false
 fields:
@@ -25,3 +13,15 @@ fields:
   description: blog-page
   hidden: true
   default: blog-page
+pages:
+- _basketball-poland/meet-the-coaches-josh-thompson.md
+- _basketball-poland/meet-the-players-morgan-ham.md
+- _basketball-poland/meet-the-players-janay-morton.md
+- _basketball-poland/meet-the-players-kristina-rumplasch.md
+- _basketball-poland/meet-the-players-sierra-jones.md
+- _basketball-poland/meet-the-players-kori-west.md
+- _basketball-poland/meet-the-players-kelsey-key.md
+- _basketball-poland/meet-the-players-megan-brown.md
+- _basketball-poland/meet-the-players-kaylee-stroemple.md
+- _basketball-poland/meet-the-players-paige-barrett.md
+- _basketball-poland/player-introductions.md

@@ -1,4 +1,17 @@
 ---
+hide_body: false
+is_partial: false
+fields:
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: page
 pages:
 - _basketball-ethopia/meet-the-head-coach-lynn-plett.md
 - _basketball-ethopia/meet-the-team-hannah.md
@@ -27,16 +40,3 @@ pages:
 - _pages/oppoortunity/blog/baseball/index.md
 - _pages/golf/teamblogs/index.md
 - _pages/oppoortunity/blog/sports-performance/sports-perfomance-armenia/index.md
-hide_body: false
-is_partial: false
-fields:
-- name: byLine
-  label: Byline
-  type: text
-  hidden: false
-  default: ''
-- name: layout
-  label: Layout
-  type: text
-  hidden: false
-  default: page
