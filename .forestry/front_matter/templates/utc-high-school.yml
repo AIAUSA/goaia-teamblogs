@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/big-things-are-happening-1.md
 - _utc-high-school/taking-it-to-the-streets-1.md
 - _utc-high-school/summer-camps-change-lives-1.md
 - _utc-high-school/it-changed-my-life-eight-years-ago.md
