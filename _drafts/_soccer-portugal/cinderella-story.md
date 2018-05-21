@@ -5,6 +5,8 @@ filter: soccer
 title: 'Cinderella Story '
 date: 2018-05-18 17:56:56 -0400
 ---
+![](/uploads/2018/05/18/Hagan Hyatt.png)
+
 Morning Devotional
 
 We began the day with a devotional ran by Ashley. She discussed Mathew 13.44, where we learned the importance of giving up everything for the Lord.
