@@ -10,7 +10,7 @@ date: 2018-05-21 16:47:34 -0400
 
 If your not sure listen to Erin, the high school UTC Director, "Take the leap of faith and see what God has in store for you. ... Don't do it alone, bring your friends and teammates so you can continue to apply what you learned at the UTC."
 
-<iframe width="525" height="306" src="[https://www.youtube.com/embed/yu3Vn6MZNb0?start=1](https://www.youtube.com/embed/yu3Vn6MZNb0?start=1 "https://www.youtube.com/embed/yu3Vn6MZNb0?start=1")" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yu3Vn6MZNb0?start=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 **Erin for the Team**
 
