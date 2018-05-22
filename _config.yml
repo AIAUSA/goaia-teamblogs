@@ -37,6 +37,10 @@ collections:
     title: UTC High School
     output: true
     permalink: "/opportunity/blog/:collection/:year/:path"
+  urban-project-la:
+    title: Urban Project - Los Angeles
+    output: true
+    permalink: "/opportunity/blog/:collection/:year/:path"
   x-project:
     title: X-Project
     output: true
@@ -114,6 +118,12 @@ defaults:
 - scope:
     path: ''
     type: utc-high-school
+  values:
+    byLine: ''
+    layout: blog-page
+- scope:
+    path: ''
+    type: urban-project-la
   values:
     byLine: ''
     layout: blog-page
