@@ -3,11 +3,11 @@ byLine: ''
 layout: blog-page
 filter: basketball
 title: Meet the Coaches - Josh Thompson
-date: 2018-05-16 15:12:14 +0000
+date: 2018-05-16 11:12:14 -0400
 ---
 ![](/uploads/2018/05/16/CoachT3.jpeg)
 
-About Coach Thompson:
+About Head Coach Thompson:
 
 * Grew up in Connecticut
 * Has been coaching women's collegiate basketball for 16 years
