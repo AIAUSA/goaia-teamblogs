@@ -14,6 +14,7 @@ fields:
   hidden: true
   default: blog-page
 pages:
+- _basketball-poland/meet-the-coaches-kristin-judson.md
 - _basketball-poland/training-camp-day-two-recap.md
 - _basketball-poland/meet-the-coaches-josh-thompson.md
 - _basketball-poland/meet-the-players-morgan-ham.md
