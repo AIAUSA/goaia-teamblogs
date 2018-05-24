@@ -3,7 +3,7 @@ byLine: ''
 layout: blog-page
 filter: basketball
 title: Meet the Coaches - Josh Thompson
-date: 2018-05-16 11:12:14 -0400
+date: 2018-05-16 15:12:14 +0000
 ---
 ![](/uploads/2018/05/16/CoachT3.jpeg)
 
