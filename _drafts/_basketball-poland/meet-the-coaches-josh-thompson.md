@@ -7,7 +7,7 @@ date: 2018-05-16 11:12:14 -0400
 ---
 ![](/uploads/2018/05/16/CoachT3.jpeg)
 
-About Head Coach Thompson:
+About Coach Thompson:
 
 * Grew up in Connecticut
 * Has been coaching women's collegiate basketball for 16 years
