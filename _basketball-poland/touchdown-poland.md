@@ -10,4 +10,6 @@ Today our team began the day with breakfast and team time where we dove into lif
 
 ​Having the ability to use a basketball to be a reflection of Jesus to people who cannot communicate in English is something that blows me away. We reflect him in our actions and the joy that radiates from us and we never have to say a word, it leaves me speechless. After the game we traveled to dinner and had some time to talk and fellowship as a group. Our team just met each other less than a week ago and it's amazing how you can see God's hand in orchestrating all of our steps to meet for this trip. Hearing my teammates profess their faith in Jesus and how He has been faithful to them through their lives is continuing to push me to want to grow deeper in my faith. I'm loving every second of being in Poland with my teammates.
 
+* Kelsey Key
+
 ![](/uploads/2018/05/27/IMG_1265.JPG)
