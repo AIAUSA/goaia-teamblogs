@@ -14,6 +14,7 @@ fields:
   hidden: true
   default: blog-page
 pages:
+- _basketball-poland/freedom-in-christ-1.md
 - _basketball-poland/freedom-in-christ.md
 - _basketball-poland/travel-day-to-tarnow.md
 - _basketball-poland/final-day-of-training-camp-recap.md
