@@ -2,7 +2,7 @@
 byLine: '"This never gets old!"'
 layout: blog-page
 title: I love seeing athletes "get it."
-date: 2018-05-08 10:26:29 -0400
+date: 2018-05-08 14:26:29 +0000
 ---
 ### Meet the AIA High School UTC Director
 
@@ -18,7 +18,7 @@ date: 2018-05-08 10:26:29 -0400
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
