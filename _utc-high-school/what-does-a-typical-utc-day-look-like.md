@@ -36,7 +36,7 @@ Did you read the information letter we sent after registering?  If not, [here'
 
 For more information contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
