@@ -12,18 +12,32 @@ Did you read the information letter we sent after registering?  If not, [here'
 
 #### **Monday - Wednesday will look something like this:**
 
- \* Workshp
+\* Workshp
 
- \* AIA Biblical Principle (classroom)
+\* AIA Biblical Principle (classroom)
 
- \* Principle Lab (practice time)
+\* Principle Lab (practice time)
 
- \* Field Time / Outreach / Challenge Cource
+\* Field Time / Outreach / Challenge Cource
 
- \* Evening Session
+\* Evening Session
 
- \* Fun / Small Group Activities
+\* Fun / Small Group Activities
 
 **Thursday** begins like the rest of the week and focuses on Principle 5.  Then our SPECIAL competition begins at 3 PM.  It will run through out the day Thursday and continue again on **Friday.**  There will be a dinner break Thursday evening and rest time before the Special continues early Friday morning. The UTC will finish up on Friday night with a special time of celebration, breakouts, sharing, and fun activities and a good night of sleep.
 
 **Saturday** morning we have breakfast and you are on your way home by 9 AM!
+
+Rick for the Team
+
+For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
+
+### [**Ready to Register?**]()
+
+---
+
+#### **#UTCXenia     #UTCstory**
+
+Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)
