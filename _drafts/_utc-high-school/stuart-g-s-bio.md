@@ -12,13 +12,13 @@ date: 2018-05-29 13:59:02 -0400
 
 **My UTC Role:** Director of Operations & Athlete Curriculum
 
-"??"
+"I will be handling much of the camp finances and organizing the actual events."
 
 **Why am I excited about the HS UTC?** "I'm excited to be a part of the high school UTC because I love it when they learn learn how to integrate their faith and sport to compete for an audience of One, not putting their identity in how they perform, but who they can glorify through their performance. I pray that I can help make the camp run seamlessly and that the campers can have a great experience from the moment they show up at registration to the day they depart Xenia.
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
