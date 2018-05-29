@@ -2,7 +2,7 @@
 byLine: 'Why do you compete? '
 layout: blog-page
 title: I was playing for the wrong reasons!
-date: 2018-05-02 13:55:04 -0400
+date: 2018-05-10 15:22:38 -0400
 ---
 ### **Meet the HS UTC Asst. Program Director & SPECIAL Coordinator**
 
@@ -20,7 +20,7 @@ They will compete at a higher level and experience a new joy and freedom in life
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
