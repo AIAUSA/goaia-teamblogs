@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/cj-s-bio.md
 - _utc-high-school/what-does-a-typical-utc-day-look-like.md
 - _utc-high-school/do-you-have-an-answer.md
 - _utc-high-school/we-have-seen-first-hand-how-1.md
