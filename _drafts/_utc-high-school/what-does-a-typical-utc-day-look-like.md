@@ -9,3 +9,17 @@ As our high school UTC draws closer, you may be thinking about what it's going t
 Did you read the information letter we sent after registering?  If not, [here's a copy](https://docs.google.com/document/d/1EqiCsl5EXkKVlzXk_RvBTMv3P5bRjpqsXeNSAbcsIa4/edit?usp=sharing).
 
 **Sunday** will start with registration at 1PM, followed by orientation at 3:30 PM.  Then we jump right into examining AIA Principle 1 after dinner and applying it in a volleyball lab.  Sunday evening will be capped off with a Game and Huddle time with Lights out at 11:00 PM.
+
+#### **Monday - Wednesday will look something like this:**
+
+ \* Workshp
+
+ \* AIA Biblical Principle (classroom)
+
+ \* Principle Lab (practice time)
+
+ \* Field Time / Outreach / Challenge Cource
+
+ \* Evening Session
+
+ \* Fun / Small Group Activities
