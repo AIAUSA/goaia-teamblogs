@@ -18,7 +18,7 @@ date: 2018-05-29 13:47:22 -0400
 
 For more information contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
