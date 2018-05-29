@@ -32,9 +32,9 @@ Did you read the information letter we sent after registering?  If not, here's
 
 **Saturday** morning we have breakfast and you are on your way home by 9 AM!
 
-Rick for the Team
+**_Rick for the Team_**
 
-For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
+For more information contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
 ### [**Ready to Register?**]()
 
