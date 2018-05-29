@@ -1,6 +1,17 @@
 ---
-byLine: ''
+byLine: Who do you glorify through your performance?
 layout: blog-page
 title: Stuart G's Bio
 date: 2018-05-29 13:59:02 -0400
 ---
+### Meet the AIA High School UTC Director of Operations
+
+![](/uploads/2018/05/29/2018 HS UTC Stuart Bio.jpg)
+
+**Stuart's Staff Role:** Senior Campus Staff at Central State University, University of Dayton and Wright State University. Discipleship and Director of Operations and Finance.
+
+**My UTC Role:** Director of Operations & Athlete Curriculum
+
+"??"
+
+**Why am I excited about the HS UTC?** "I'm excited to be a part of the high school UTC because I love it when they learn learn how to integrate their faith and sport to compete for an audience of One, not putting their identity in how they perform, but who they can glorify through their performance. I pray that I can help make the camp run seamlessly and that the campers can have a great experience from the moment they show up at registration to the day they depart Xenia.
