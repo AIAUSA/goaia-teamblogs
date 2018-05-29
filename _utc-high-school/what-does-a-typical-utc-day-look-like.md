@@ -4,7 +4,7 @@ layout: blog-page
 title: What does a typical UTC day look like?
 date: 2018-05-29 08:55:40 -0400
 ---
-[fzaxmv](https://goo.gl/images/fzaxmv "fzaxmv")
+![](/uploads/2018/05/29/2015 HS Xenia UTC Group Pic.jpg)
 
 As our high school UTC draws closer, you may be thinking about what it's going to be like?
 
