@@ -20,7 +20,7 @@ I will be creating most of the content as our athletes experience this year's UT
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
