@@ -20,7 +20,7 @@ Jeff will be helping our staff cover the material to be shared with our HS UTC a
 
 For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 ---
 
