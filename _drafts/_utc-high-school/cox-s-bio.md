@@ -10,7 +10,7 @@ date: 2018-05-29 13:47:22 -0400
 
 **Mike & Susan's Staff Role:** Loveland, Ohio High School Director: Campus time coordinator, schedule events as in team talks, Early release parties.
 
-"We connect with students on and off campus developing relationships to have the opportunity to share the Gospel and bring students to faith in Christ. This is accomplished through team talks and outreaches to groups and teams. Students are then built up in their faith by bible study groups, mentoring, conferences/retreats to ultimately to empower students to reach their friends and teammates with the Gospel."
+"We connect with students on and off campus developing relationships for the opportunity to share the Gospel and bring students to faith in Christ. This is accomplished through team talks and outreaches to groups and teams. Students are then built up in their faith by bible study groups, mentoring, conferences/retreats to ultimately to empower students to reach their friends and teammates with the Gospel."
 
 **Mike & Susan's UTC Roles:** They will be co leading outreach efforts and huddle leaders.
 
