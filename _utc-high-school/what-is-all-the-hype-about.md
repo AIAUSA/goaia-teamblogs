@@ -20,7 +20,7 @@ We understand the challenges of competition.  As former high school and college 
 
 Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**]()
+### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
 
 **_Rick for the HSUTC Team_**
 
