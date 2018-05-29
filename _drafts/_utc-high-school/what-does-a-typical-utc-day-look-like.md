@@ -23,3 +23,7 @@ Did you read the information letter we sent after registering?  If not, [here'
  \* Evening Session
 
  \* Fun / Small Group Activities
+
+**Thursday** begins like the rest of the week and focuses on Principle 5.  Then our SPECIAL competition begins at 3 PM.  It will run through out the day Thursday and continue again on **Friday.**  There will be a dinner break Thursday evening and rest time before the Special continues early Friday morning. The UTC will finish up on Friday night with a special time of celebration, breakouts, sharing, and fun activities and a good night of sleep.
+
+**Saturday** morning we have breakfast and you are on your way home by 9 AM!
