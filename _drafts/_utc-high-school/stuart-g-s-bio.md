@@ -15,3 +15,15 @@ date: 2018-05-29 13:59:02 -0400
 "??"
 
 **Why am I excited about the HS UTC?** "I'm excited to be a part of the high school UTC because I love it when they learn learn how to integrate their faith and sport to compete for an audience of One, not putting their identity in how they perform, but who they can glorify through their performance. I pray that I can help make the camp run seamlessly and that the campers can have a great experience from the moment they show up at registration to the day they depart Xenia.
+
+For more information [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
+
+### [**Ready to Register?**]()
+
+---
+
+#### **#UTCXenia     #UTCstory**
+
+Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+
+More about the  [Total Athlete Complex](http://www.aiasportscomplex.com/)
