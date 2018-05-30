@@ -10,6 +10,8 @@ date: 2018-05-30 10:05:47 -0400
 
 **C.J.'s Staff Role:** He is the Inner City High School Campuses Director for Cru in Indianapolis. He has been married to Anika for 17 years and they have five children.
 
+"I lead adults across the community and assist them in reaching out to Jr. and Sr. High school campuses to develop student lead ministries at their schools.  They are currently serving within 12 schools."
+
 **My UTC Role:** Emcee and small huddle leader
 
 Why am I excited about the HS UTC? "I'm excited to return to UTC because I enjoy being with athletes. God continues to teach me through sport, and I love watching how He uses the truth of the Gospel in conjunction with sport to change the lives of others.
