@@ -4,13 +4,13 @@ layout: blog-page
 title: Welcome Weekend!
 date: 2018-05-29 20:57:51 -0400
 ---
-[IMG_1835-2](/uploads/2018/05/30/IMG_1835-2 "Headquarters")
+![](/uploads/2018/05/30/Headquarters.JPG)
 
 Wow, what an exciting weekend! We welcomed the interns to Xenia and we are so excited for the rest of the summer! It has been a crazy couple of days jam packed with activities and new information.  We have been spending a lot of time together getting to know each other as well as more about AIA.
 
 To get the interns acquainted with each other we spent a whole day out on our challenge course. The interns were pushed and challenged to build trust and teamwork throughout the day. We had a blast! Through each challenge, the interns were able to make connections to their time on project this summer as well as to their walk with the Lord.
 
-[IMG_1853-1](/uploads/2018/05/30/IMG_1853-1 "Interns")
+[Interns](/uploads/2018/05/30/Interns-1 "Interns")
 
 One challenge in particular had a great impact and gave each of us an amazing picture of the Gospel. The interns were challenged to all get over this giant wall. They had to use each other to prop each other up as well as pull each other over the wall. It required great teamwork. The last person, however, had no help at the bottom and only could jump to try and reach the people up top. As the last intern tried to reach the people up top, she was several feet short of reaching them. She was unable to jump high enough to make it. It was impossible. However, the facilitator stepped in and gave the interns another option. She told them that they could have one person come down and hang by the top of the wall, as the last intern used them to climb to the top. The person hanging, sacrificed their body, so that she could make it.
 
