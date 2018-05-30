@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _x-project/welcome-weekend.md
 - _x-project/meet-the-team-vince.md
 - _x-project/meet-the-team-kelly.md
 - _x-project/meet-the-team-karen-purpero.md
