@@ -5,6 +5,8 @@ filter: basketball
 title: Spirit Soaring in Warsaw
 date: 2018-06-01 19:04:18 -0400
 ---
+![](/uploads/2018/06/01/IMG_9002.JPG)
+
 Today we were back in the city of Warsaw and it was the first day of our basketball clinic. The clinic was filled with God’s love, energy, and community. We focused on the subject of “Communication” today so we played some games with the campers to emphasize the importance of communication — not just on the court, but with God and people.
 
 Besides the emphasis on communication, we also worked really hard on he fundamentals of basketball. We had a morning and evening session that focused on individual drill work and team oriented drills. We incorporated “Communication” by having the campers call out names during passing drills and just concentrate on the importance of communicating on the court.
