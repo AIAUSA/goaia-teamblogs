@@ -19,7 +19,7 @@ I can’t explain how life-changing, impactful, and humbling tonight was. It gre
 
 -- Paige
 
-  
+![](/uploads/2018/06/01/IMG_2162.JPG)  
 I have learned so much in one day because God had filled my life with joy and thankfulness. My teammates and I can back to Warsaw to help with a basketball client for 14 to 21 year olds to help them through basketball and connect with God. Before the client, the director of the camp talked to us,staff and Volunteers, about communication with God and with our lives. He talks about joyful, thankful, and communication. He also talks about how God communicated with us on spiritual gifts. In 1 Corinthians 12, Paul was writing to speak to God to build a stronger relationship with him and God started giving spiritual gifts to diversities of gifts and activities, but same spirit and also different of ministries, but same Lord. This relates to this trip by giving my teammates and I the opportunity to inspire the kids to teenagers to share our stories and how Christ affected us through life.
 
       The beginning of the client, we all interacted with the campers and the director was communicating with the campers by showing and explaining at the same time the drills to give the campers a good idea what they are doing because communication is by listening with seeing with your eyes and hearing with your ears. In the afternoon, we got into three big group mix together with staff, Volunteers, and campers to get to know each other which we have to communicate. We did three activities/tasks to help with communication:
