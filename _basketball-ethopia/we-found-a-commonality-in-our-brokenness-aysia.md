@@ -4,6 +4,8 @@ layout: page
 title: '"We Found a Commonality in Our Brokenness." - Aysia'
 date: 2018-06-02 11:22:51 -0400
 ---
+[IMG_1055-2](/uploads/2018/06/02/IMG_1055-2 "IMG_1055-2")
+
 5/31 was the last day in Xenia, Ohio before the team had taken off and headed for Ethiopia.
 
 We had a practice that morning around 10am and we had been preparing for our Prison Game that night. The prison game would be the first game we would play a game together as a group. For being in an unfamiliar environment and practicing a total of 4 times, we did alright! The prisoners played really well! They made us pay with lay ups, played tough defense, and hit many 3 pt. shots. Some of us were challenged with our own sociological perspectives of the women from the facility because of the stigma that the world places on convicts. It was amazing to watch the sport of basketball break down barriers and allow us to share the gospel with a group of women that are often shamed and/or feared by society.
