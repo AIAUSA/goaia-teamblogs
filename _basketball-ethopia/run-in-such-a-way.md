@@ -4,6 +4,8 @@ layout: page
 title: Run in Such a Way
 date: 2018-06-02 05:50:12 -0400
 ---
+[IMG_7607-6](/uploads/2018/06/02/IMG_7607-6 "IMG_7607-6")
+
 --- Jackie Stewart
 
 On Monday, May 28th, we arrived on campus for training camp in preparation for our tour to Addis Ababa, Ethiopia!
