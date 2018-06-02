@@ -14,6 +14,7 @@ fields:
   hidden: true
   default: blog-page
 pages:
+- _basketball-poland/ciezka-praca-i-fontanny.md
 - _basketball-poland/spirit-soaring-in-warsaw.md
 - _basketball-poland/arbeit-macht-frei.md
 - _basketball-poland/day-two-in-tarnow.md
