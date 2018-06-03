@@ -4,7 +4,7 @@ layout: page
 title: '"We Found a Commonality in Our Brokenness." - Aysia'
 date: 2018-06-02 11:22:51 -0400
 ---
-[IMG_1055-2](/uploads/2018/06/02/IMG_1055-2 "IMG_1055-2")
+![](/uploads/2018/06/02/IMG_1055-2)
 
 5/31 was the last day in Xenia, Ohio before the team had taken off and headed for Ethiopia.
 
