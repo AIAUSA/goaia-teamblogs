@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/having-a-front-row-seat.md
 - _utc-high-school/cox-s-bio.md
 - _utc-high-school/stuart-g-s-bio.md
 - _utc-high-school/jacob-douglas-bio.md
