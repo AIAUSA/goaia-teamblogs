@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: Week 1 in the books!
 date: 2018-06-04 16:25:18 -0400
-published: false
 ---
 What a great first week in Xenia! Immediately upon arriving, we met each other and spent the day in orientation, exploring AIA’s campus. After being assigned our intern teams, we made tracks all throughout Xenia on an “AIA-mazing Race.” The race was on to beat the clock, with 12 different stops all around the town within an hour.
 
