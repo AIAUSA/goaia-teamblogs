@@ -6,7 +6,7 @@ date: 2018-06-04 16:25:18 -0400
 ---
 What a great first week in Xenia! Immediately upon arriving, we met each other and spent the day in orientation, exploring AIA’s campus. After being assigned our intern teams, we made tracks all throughout Xenia on an “AIA-mazing Race.” The race was on to beat the clock, with 12 different stops all around the town within an hour.
 
-_![](/uploads/2018/06/04/funtofun.png)_
+<img src="/uploads/2018/06/04/funtofun.png" alt="" width="470px">
 
 _“Fun to Fun”_
 
