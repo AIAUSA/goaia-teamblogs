@@ -12,5 +12,3 @@ fields:
   type: text
   hidden: false
   default: blog-page
-pages:
-- _basketball-ethopia/andy-1.md
