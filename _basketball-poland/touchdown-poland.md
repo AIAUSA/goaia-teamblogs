@@ -1,6 +1,6 @@
 ---
 byLine: Poland Women's Basketball
-layout: page
+layout: blog-page
 title: Touchdown Poland
 date: 2018-05-26 23:00:15 -0400
 ---

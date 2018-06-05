@@ -67,7 +67,7 @@ defaults:
     type: pages
   values:
     byLine: ''
-    layout: page
+    layout: blog-page
 - scope:
     path: ''
     type: south-africa-spring-break

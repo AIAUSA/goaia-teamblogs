@@ -1,6 +1,6 @@
 ---
 byLine: Ethiopia Women's Basketball
-layout: page
+layout: blog-page
 title: Meet the Team - Meredith
 date: 2018-05-14 10:27:56 -0400
 ---
