@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Who do you glorify through your performance?
 layout: blog-page
 title: Why do you play the game?
 date: 2018-06-06 08:43:36 -0400
