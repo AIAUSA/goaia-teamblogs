@@ -4,7 +4,7 @@ layout: blog-page
 title: Early Excitement!!
 date: 2018-06-05 02:05:08 -0400
 ---
-![](file:///Users/raamiahbethea/Desktop/unnamed-2.jpg)
+![](/uploads/2018/06/06/unnamed-2.jpg)
 
 Hey everybody! My name is Kori and I’m on the rowing team at Rutgers University in New Jersey. Today we began learning the classic AIA principles. Simply put, they are five principals that in sports terms explain how we can use our sport to glorify God. After a great teaching by Gabby, we “went to church” at the local park to worship God through volleyball competitions. It felt great to play with such freedom knowing that everyone was playing for the same goal: God’s glory.
 
@@ -14,4 +14,4 @@ These past two days have felt so long but the conversations, experiences, and re
 
 Prayers and peace! 🤙🏻
 
-\#UPLA18  @UrbanProjectLA
+**#UPLA18  @UrbanProjectLA**
