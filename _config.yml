@@ -33,6 +33,10 @@ collections:
     title: Sports Performance Armenia
     output: true
     permalink: "/opportunity/blog/sports-performance/blog/:collection/:year/:path"
+  sports-performance-honduras:
+    title: Sports Performance Honduras
+    output: true
+    permalink: "/opportunity/blog/sports-performance/blog/:collection/:year/:path"
   utc-high-school:
     title: UTC High School
     output: true
@@ -111,6 +115,13 @@ defaults:
 - scope:
     path: ''
     type: sports-perfomance-armenia
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: sports-performance
+- scope:
+    path: ''
+    type: sports-perfomance-honduras
   values:
     byLine: ''
     layout: blog-page
