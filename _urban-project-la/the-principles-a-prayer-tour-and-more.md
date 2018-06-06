@@ -5,6 +5,8 @@ title: The Principles, A Prayer Tour, and More..
 date: 2018-06-06 03:16:34 -0400
 published: false
 ---
+![](/uploads/2018/06/06/Ventura_Blvd_-_Laurel_Cyn_Blvd-1.jpg)
+
 Today (June 5) was filled with so many rich experiences. It’s incredible to think about what I’m learning in even the most most simple interactions. It’s hard to process because there are just so much deep interactions and activities through out our days. 
 
   
