@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/_utc-high-school/stuart-g-s-bio.md
 - _utc-high-school/why-do-you-play-the-game.md
 - _utc-high-school/_utc-high-school/jacob-douglas-bio.md
 - _utc-high-school/_utc-high-school/i-was-playing-for-the-wrong-reasons.md
