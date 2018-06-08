@@ -10,7 +10,7 @@ date: 2018-06-08 10:26:51 -0400
 
 **Jacob's Staff Role:** Local Team Leader, AIA NorCal, I give direction and leadership to a multi-campus team of 8 staff serving at UC Davis, Sacramento State, University of the Pacific and Sonoma State. 
 
-"I lead a large multi-location staff team... I plan, raise finances, build partnerships, mentor student athletes and coaches, speak at events, pursue churches partners. I fulfill operations tasks, ... in other words, I don't have a typical day".
+"I lead a large multi-location staff team... I plan, raise finances, build partnerships, mentor student athletes and coaches, speak at events, pursue churches partners. I fulfill operations tasks, ... in other words, I don't have a typical day."
 
 **My UTC Role:** Coordinate and manage all the equipment/supplies required for all the assemblies and events the athletes run through during the UTC.
 
