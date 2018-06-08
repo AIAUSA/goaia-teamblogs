@@ -13,3 +13,5 @@ fields:
   description: blog-page
   hidden: true
   default: blog-page
+pages:
+- _south-africa-spring-break/test.md
