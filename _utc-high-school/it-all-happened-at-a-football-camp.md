@@ -3,7 +3,6 @@ byLine: It's a blast to watch them finding their identity in Christ!
 layout: blog-page
 title: It all happened at a Football Camp
 date: 2018-06-08 10:26:51 -0400
-published: false
 ---
 ### Meet the AIA High School UTC Operations Manager
 
