@@ -4,8 +4,11 @@ layout: blog-page
 filter: track
 title: Luggage Lessons
 date: 2018-06-08 07:43:56 -0400
-published: false
+published: true
 ---
+
+![](/uploads/2018/06/08/Canary Team Heading Out.jpg)
+
 Jillian, Caitlin and I started our trek to Ohio early Saturday morning. I have only flown once before so with three connecting flights starting in Houston, the nerves were most definitely present. Even though the flight was under an hour to San Antonio, I think it might have been the worst. Then after that, we were smooth sailing. Until we arrived at baggage claim in Cincinnati..
 
 Caitlin found her bag almost immediately and Jill’s wasn’t far after. Then after the same few, uncollected bags circled around for quite some time I started to wonder if mine was going to shoot out or if someone had mistaken mine for theirs. I tried not to freak out and act like I was bothered, but two weeks in a foreign country with only one change of clothes didn’t seem too exciting! Luckily, the man at the baggage claim issues desk was as kind as could be. He entered a claim with all my information, apologized a million times, and promised that they would find a solution. I went throughout my day praying that my luggage would show up soon, but there was a constant image in my head that it wouldn’t happen. We kept talking about the possibility of our bags getting lost, and mine actually did!
