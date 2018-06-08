@@ -4,7 +4,7 @@ layout: page
 title: Traveling Through Addis
 date: 2018-06-08 01:42:10 -0400
 ---
-[IMG_1254-3](/uploads/2018/06/08/IMG_1254-3 "IMG_1254-3")
+[IMG_1254-5](/uploads/2018/06/08/IMG_1254-5 "IMG_1254-5")
 
 The last several days in Addis, we have played two games and run several clinics around the city. We've loved every minute of getting to sit down with teams and hear about their lives and share our faith with them. Everyone has been beyond welcoming, and we are so grateful we've had the opportunity to serve and share our love for Christ and knowledge of basketball, while learning so much from them at the same time.
 
