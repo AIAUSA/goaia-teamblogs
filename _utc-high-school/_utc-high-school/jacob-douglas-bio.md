@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: It's a blast to watch them finding their identity in Christ!
 layout: blog-page
 title: Jacob Douglas Bio
 date: 2018-05-29 18:18:26 +0000
