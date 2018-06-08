@@ -12,3 +12,5 @@ fields:
   type: text
   hidden: false
   default: blog-page
+pages:
+- _basketball-ethopia/traveling-through-addis.md
