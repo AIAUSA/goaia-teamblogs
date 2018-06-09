@@ -2,7 +2,7 @@
 byLine: Jane - Bowling Green State University
 layout: blog-page
 title: The Principles, A Prayer Tour, and More..
-date: 2018-06-06 03:16:34 -0400
+date: 2018-06-06 07:16:34 +0000
 ---
 ![](/uploads/2018/06/06/IMG_0406.JPG)
 
@@ -14,3 +14,7 @@ Today, God exposed one of the motivations that comes so naturally for me. One of
 What a powerful thing I learned about myself today. It's so incredible to see God showing me and weeding out twisted motivations.
 
 Not only are we learning about oursleves and our sport, but we are also learning about this city. Tonight we took a prayer car ride all over Los Angeles, and it truly was eye opening. There is so much poverty: so much homelessness and much brokenness. It’s hard to see, honestly, but at the same time so encouraging to hear about ministry’s like Homeboy Industries. Homeboy Industries is a ministry that provides support and training for for formerly gang-involved and previously incarcerated men and women. Please help us to continue to pray for the local ministries, because Jesus is the only hope for this city. I’m so thankful for this experience so far, and to be growing here in this city with these people.
+
+Jane - Bowling Green State University
+
+\#UPLA18  @UrbanProjectLA
