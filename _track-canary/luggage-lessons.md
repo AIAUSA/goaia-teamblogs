@@ -3,8 +3,7 @@ byLine: ''
 layout: blog-page
 filter: track
 title: Luggage Lessons
-date: 2018-06-08 07:43:56 -0400
-published: true
+date: 2018-06-08 11:43:56 +0000
 ---
 
 ![](/uploads/2018/06/08/Canary Team Heading Out.jpg)
