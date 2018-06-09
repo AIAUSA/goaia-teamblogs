@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Everyone Has a Plane Story
 date: 2018-06-08 13:54:01 -0400
-published: false
 ---
 Today (June 5th) our team really had to live out our norm of flexibility being the best ability. We started the day with discipleship time and then packed up and headed to the airport. By nature I am a very friendly, chatty, outgoing person and love making new friends on plane rides. We used a book for discipleship called "God Space" by Doug Pollock and he suggests using those plane rides to create space to share about the hope you have in Jesus. He also says these conversations often happen when you don't always want them. This was the case for me on our flight to Chicago. All I wanted to do was work and get things done so I could be better prepared for our discipleship time in country. However God had other plans! Our plane was delayed 30+ minutes so we were stuck on the tarmac waiting to take off for what felt like forever. And during this waiting time I was chatting with our team, playing games, and not really talking to the man next to me; all the while waiting for our plane to take off so that I could work. When we were finally ready for take off, he asked me where we were going and my first thought was...I'm not going to get any work done on this flight. But, I quickly shook off my feelings of disappointment and decided to rely on the Holy Spirit to guide my conversation with this man on the plane.
 
