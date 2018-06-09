@@ -5,7 +5,7 @@ title: '"The happiness that came onto their faces was something that I will neve
   forget." - Hannah'
 date: 2018-06-08 15:47:36 -0400
 ---
-[IMG_0583-1](/uploads/2018/06/08/IMG_0583-1 "IMG_0583-1")
+![](/uploads/2018/06/08/IMG_0583.JPG)
 
 Yesterday, June 7, we were able to go to Yehiwet Birhan School in Addis. Here we were able to put on a basketball clinic for the basketball team and some other kids around the area. So far, this has been the most exciting but tiring day for most of our team. 
 
