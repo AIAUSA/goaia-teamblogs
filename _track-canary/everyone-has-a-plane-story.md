@@ -16,4 +16,4 @@ The rest of our travel day was not so pleasant. Because we were delayed on our f
 
 "But in your hearts revere Christ as Lord. Always be prepared to give an answer to everyone who asks you to give the reason for the hope that you have. But do this with gentleness and respect.
 
-[Canary Airport-1](/uploads/2018/06/08/Canary Airport-1 "Canary Airport-1")
+![](/uploads/2018/06/08/Canary Airport.jpg)
