@@ -14,6 +14,8 @@ Today is our last day of our trip to Poland. What an amazing journey it has been
 
 	As this tour comes to a close, I am reflecting on a number of things. I want to make sure I stay connected with all of the incredibly awesome people I’ve met on this trip. I also am looking forward to diving into God’s word even more and learn as much as I can. This trip has ignited a spiritual fire in my soul and I can’t wait to Glorify God with the talents that He has given me, as well as, see what plans he has for me and everyone that has gone on this trip in the future. 
 
+[DSC_0145-2](/uploads/2018/06/10/DSC_0145-2 "DSC_0145-2")
+
   
 Peace Out Poland, What’s up America!
 
