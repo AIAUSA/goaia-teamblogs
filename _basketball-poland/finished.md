@@ -22,3 +22,16 @@ Peace Out Poland, What’s up America!
 God Bless,
 
 Coach J
+
+![](/uploads/2018/06/10/DSC_0288 2.jpg)
+
+  
+This trip has been such an incredible experience. God has done so many great things that it would be hard to name them all. The group of players and coaches really came together quickly and everyone meshed so well with each other. Training camp was a short but a fun experience. We got some plays put in and also started preparing for the trip.  
+  
+Poland has been awesome. The people are great and the cities are very beautiful. God has blessed us by being able to meet so many people here in Poland that love the Lord and are working to spread his love. We’ve seen so many children through our school visits and clinics. It’s been so rewarding and humbling to share the game of basketball with them and to also present them with the love and hope of having a relationship with Christ.  
+  
+The games have gone well. We’ve won all four games we played and we’ve had a lot of fun learning to play with each other. It’s been great seeing a group of players that didn’t know each other two weeks ago really come together and support each other and grow together on the court. They’ve really been fun to watch!  
+  
+God has worked in a mighty way in the lives of the players and the coaches. Everyone has grown spiritually and I’m confident that everyone will look back on this trip as a key moment in their walk with God. One of the best parts of the trip for me is all the relationships. I love how God brings all these people together in his perfect timing to accomplish his will. God is so good!
+
+- - Coach Thompson
