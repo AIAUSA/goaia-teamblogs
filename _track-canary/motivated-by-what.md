@@ -14,7 +14,7 @@ Basing my sermon off of this parable and Principle 2, I shared that in my life I
 
 I shared with the congregation that the older son is motivated by self-righteousness, and the younger son is motivated by worldly pleasures. However, the Father is motivated by his relationship with His sons. He treats both sons equally, even though they view their relationship with their Father very differently.
 
-![](/uploads/2018/06/10/preaching at British church.jpg)
+![](/uploads/2018/06/10/preaching-at-British-church_web.jpg)
 
 I told the congregation that whether they doubt that God would forgive them, or whether they feel they've earned God's favor, what God desires most is their love- and our motivation in life should come from God's love for us.
 
