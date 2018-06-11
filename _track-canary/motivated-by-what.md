@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Motivated by What?
 date: 2018-06-10 22:17:12 +0000
-published: false
 ---
 Have you ever experienced one of those cool "God moments?" 
 
