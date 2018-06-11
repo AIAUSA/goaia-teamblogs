@@ -3,7 +3,6 @@ byLine: Ethiopia Women's Basketball
 layout: page
 title: God is moving!
 date: 2018-06-11 16:35:14 -0400
-published: false
 ---
 We have so enjoyed our time here in Ethiopia. One of the things we prayed for, we have seen play out in many different ways, namely, that God would work in us and through us. We've loved spending time with children at multiple different schools, running clinics, playing games, but I believe something that has had one of the most profound impacts on each of our staff and players have been the spiritual conversations that have taken place. 
 
