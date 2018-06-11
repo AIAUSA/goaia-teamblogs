@@ -8,7 +8,7 @@ published: false
 ---
 Have you ever experienced one of those cool "God moments?" 
 
-This morning, Sunday, our team visited a local church. Two of our members shared their testimonies, while I (Joel) preached the sermon (my third time the past three years). 
+This morning, Sunday, our team visited a local church. Two of our members shared their testimonies, while I (Joel) preached the sermon (my third time in three years). 
 
 As I began to write my sermon a couple of weeks ago, the only thing I felt led to preach on was the parable of the Prodigal Son, found in Luke 15. For some reason, this parable had been on my mind a lot in the past month.  Athletes in Action teaches a principle titled "Inside Game," which is based on the parable of the Prodigal Son. This Principle teaches how we as Christ followers can live life being motivated by God's love for us, instead of by worldly pleasures or self-righteousness.
 
