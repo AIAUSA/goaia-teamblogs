@@ -13,7 +13,7 @@ Whether you are talking about athletic competition or life, most of the barriers
 
 The Challenge Course has a high and low ropes component. The are extremely helpful in teaching lessons, such as team building, communication, problem-solving, and trust.  All are critical for everyone on a successful team.
 
-If you are willing to step out of your comfort (self imposed limit) zone, you will build a strong foundation that can catapult you forward by building your faith in Him and what God can accomplish in you.
+If you are willing to step out of your comfort zone and into the **_Challenge Zone_**, you will build a strong foundation that can catapult you forward by building your faith in Him and what God can accomplish in you.
 
 Not sure, listen to Brandon's invitation.  He's probably experienced some of the same challenges.
 
