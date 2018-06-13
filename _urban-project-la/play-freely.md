@@ -1,9 +1,8 @@
 ---
-byLine: Regina
+byLine: Regina - The Ohio State University
 layout: blog-page
 title: 'Play Freely '
 date: 2018-06-13 02:59:13 -0400
-published: false
 ---
 After learning the AIA Principles and working to apply them to athletics and competition through the S.P.E.C.I.A.L, we continued to delve deeper into the strategy for community development. Outlined in Dr. John Perkin’s book, _Justice for All_, the strategy presented by Dr. Perkins, the foundation of the work we are doing here at Urban Project - Los Angeles, is one to bring liberty in light of the gospel. The strategy, follows the principle of the Three R’s: relocation, reconciliation, and redistribution.
 
