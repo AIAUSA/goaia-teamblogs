@@ -10,3 +10,5 @@ The Wednesday Morning Team
 Every Wednesday morning since last July, members of the Athletes in Action High School Ultimate Training Camp have been praying for all the athletes attending our June 24 - 30 camp.
 
 [HS UTC Wed morning-1](/uploads/2018/06/14/HS UTC Wed morning-1 "HS UTC Wed morning-1")
+
+Over the last three months our team has been planning every aspect of the camp so each athlete will experience their ultimate training experience.  One that will help transform them not only into a better athletes, but into the young man or women God desires them to be.  
