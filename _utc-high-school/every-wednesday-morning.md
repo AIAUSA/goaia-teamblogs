@@ -8,7 +8,7 @@ date: 2018-06-14 14:54:45 -0400
 
 Every Wednesday morning since last July, members of the Athletes in Action High School Ultimate Training Camp have been praying for all the athletes attending our June 24th - 30th camp.
 
-[HS UTC Wed morning-2](/uploads/2018/06/14/HS UTC Wed morning-2 "HS UTC Wed morning-2")
+![](/uploads/2018/06/14/HS UTC Wed morning.JPG)
 
 Over the last three months our team has been planning every aspect of the camp so each athlete will experience their ultimate training experience.  One that will help transform them not only into better athletes, but into the young man or women God desires them to be.
 
