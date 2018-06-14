@@ -4,6 +4,8 @@ layout: blog-page
 title: 'Play Freely '
 date: 2018-06-13 02:59:13 -0400
 ---
+![](/uploads/2018/06/14/Sunset.png)
+
 After learning the AIA Principles and working to apply them to athletics and competition through the S.P.E.C.I.A.L, we continued to delve deeper into the strategy for community development. Outlined in Dr. John Perkin’s book, _Justice for All_, the strategy presented by Dr. Perkins, the foundation of the work we are doing here at Urban Project - Los Angeles, is one to bring liberty in light of the gospel. The strategy, follows the principle of the Three R’s: relocation, reconciliation, and redistribution.
 
 This week, we had the incredible privilege of hearing from Michael Sylvester on the the topic of reconciliation. Before tackling the work of reconciliation, it is important to understand that we are ambassadors of Christ. An ambassador represents the interests of the one who sent them. So as Christians, if we are going to be ambassadors, we have to understand who Christ is, what he represents, and stands for. How can we know what we represent and what God has called us to if we do not know God's heart? In simple terms, we are called to advance God’s kingdom, make disciples of all nations (Matthew 28:19), and continue the ministry of reconciliation(2 Corinthians 5:18). To do this, we must be available, proactive and plan.
