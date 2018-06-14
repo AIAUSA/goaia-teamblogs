@@ -3,7 +3,6 @@ byLine: Sarah — University of Mary Hardin-Baylor
 layout: blog-page
 title: Seeking Answers
 date: 2018-06-13 20:41:05 -0400
-published: false
 ---
 ![](/uploads/2018/06/14/unnamed-3.jpg)
 
