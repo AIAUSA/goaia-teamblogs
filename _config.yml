@@ -65,6 +65,10 @@ collections:
     title: Soccer - Men Portugal
     output: true
     permalink: "/soccer/teamblogs/:collection/:year/:path"
+  wrestling-ukraine:
+    title: Wrestling - Ukraine
+    output: true
+    permalink: "/wrestling/teamblogs/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
@@ -172,6 +176,13 @@ defaults:
     byLine: ''
     layout: blog-page
     filter: track
+- scope:
+    path: ''
+    type: wrestling-ukraine
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: wrestling
 include:
 - _pages
 exclude:
