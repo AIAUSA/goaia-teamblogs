@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: Surrender
 date: 2018-06-15 14:20:26 -0400
-published: false
 ---
 It all began with a question I had for God: _What do you want me to surrender?_ As if in a vision of fire like that of the burning bush, the reply came: _Everything_. I have to be honest, though. Even after that dramatic interaction with God, He had to drag me to where He wanted me to be. Though I had no idea what I would be doing this summer, I didn’t imagine it would be an X Project internship. I’ll go ahead and spoil the ending, however, because I am beyond grateful to be here.
 
