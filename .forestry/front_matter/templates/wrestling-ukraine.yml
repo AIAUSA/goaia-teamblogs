@@ -17,5 +17,3 @@ fields:
   type: text
   hidden: false
   default: track
-pages:
-- _aia-team-blogs/schedule.md
