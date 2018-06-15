@@ -13,12 +13,13 @@ fields:
   hidden: false
   default: blog-page
 pages:
-- _x-project/week-1-in-the-books.md
-- _x-project/welcome-weekend.md
+- _x-project/surrender.md
 - _x-project/meet-the-team-vince.md
-- _x-project/meet-the-team-kelly.md
 - _x-project/meet-the-team-karen-purpero.md
-- _x-project/meet-the-team-the-hardy-s.md
-- _x-project/meet-the-team-the-holmstrom-s.md
-- _x-project/x-project-2018.md
 - _x-project/meet-the-team-mary-gooding.md
+- _x-project/meet-the-team-the-hardy-s.md
+- _x-project/x-project-2018.md
+- _x-project/welcome-weekend.md
+- _x-project/meet-the-team-kelly.md
+- _x-project/week-1-in-the-books.md
+- _x-project/meet-the-team-the-holmstrom-s.md

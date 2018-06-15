@@ -18,9 +18,9 @@ fields:
   hidden: false
   default: sports-performance
 pages:
+- _sports-performance-armenia/day-3-connecting-to-a-culture.md
 - _sports-performance-armenia/reflections.md
 - _sports-performance-armenia/day-2-building-relationships.md
 - _sports-performance-armenia/arrived-safely-1st-full-day-in-armenia.md
-- _sports-performance-armenia/day-5-even-the-stones-speak-here.md
 - _sports-performance-armenia/day-4-easter-celebration.md
-- _sports-performance-armenia/day-3-connecting-to-a-culture.md
+- _sports-performance-armenia/day-5-even-the-stones-speak-here.md
