@@ -16,4 +16,4 @@ fields:
   label: Filter
   type: text
   hidden: false
-  default: track
+  default: wrestling
