@@ -4,7 +4,6 @@ layout: blog-page
 filter: wrestling
 title: Ukraine 2018
 date: 2018-06-16 07:37:27 -0400
-published: false
 ---
 This summer will be the 15th year AIA Wrestling has held a wrestling camp in Eastern Europe! We have been blessed to partner with Reality Sports, a ministry out of Seattle, to help form our team.
 
