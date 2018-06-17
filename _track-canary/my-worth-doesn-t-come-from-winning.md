@@ -20,6 +20,8 @@ Everything I have learned through this experience I will hold onto for forever a
 
 ![](/uploads/2018/06/17/P6130217.jpg)
 
+I'm so thankful to grow closer with these brothers and sisters in Christ! (Sadly, Joel and Paul not pictured)
+
 -Jillian, but you can call me “Clara”
 
  
