@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Gratefulness for the Small Things
 date: 2018-06-17 11:46:36 -0400
-published: false
 ---
 The past few days our AIA group has spent some time in the south of the Island in a city called El Medano, to spend some time focusing on God’s word and reflecting on our own personal relationships with Him. During the retreat we continued our discipleship time with the group and really just took in the beauty of where we were and all that God has done for us. Our first day we checked out the beach. It was beautiful! The sand was black, the water was blue, and the mountains in the background were breathtaking.
 
