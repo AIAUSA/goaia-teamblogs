@@ -3,7 +3,6 @@ byLine: Kendall - AIA Staff San Diego State University
 layout: blog-page
 title: Buffet Style Family
 date: 2018-06-18 01:22:11 -0400
-published: false
 ---
 ![](/uploads/2018/06/18/unnamed-5.jpg)
 
