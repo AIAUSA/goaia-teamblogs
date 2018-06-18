@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: My Worth Doesn't Come from Winning
 date: 2018-06-17 11:58:08 -0400
-published: false
 ---
 Wednesday was by far one of my most memorable days here in Tenerife! We began the day by exploring Teide National Park and it was absolutely breathtaking. It really made me feel so blessed to be able to experience God’s beautiful creation with this amazing team. When we got to the top, we were literally above the clouds. It was indescribable. It put in perspective how powerful God really is and how perfect his creation is also. I will never forget the fullness I felt in this moment.
 
