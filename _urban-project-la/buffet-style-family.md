@@ -1,7 +1,18 @@
 ---
-byLine: ''
+byLine: Kendall - AIA Staff San Diego State University
 layout: blog-page
 title: Buffet Style Family
 date: 2018-06-18 01:22:11 -0400
 published: false
 ---
+![](/uploads/2018/06/18/unnamed-5.jpg)
+
+The beauty of Urban Project is that it gets real. Real as in, if you truly believe that the body of believers are _brothers_ and _sisters_ in Christ, you won’t let things slide. You will call out if there is frustration, sit in hurt when there is hurt, inform and correct where there is ignorance. That is the side of family that I have not often talked about or considered in my Christian community. I have “buffet styled” what family means in Christian Community. What I mean is it’s easy to pick out only good things and keep things surface level. It’s also quite easy to pick out which problems and burdens I want to hear and when, how often and how much I want deal with them. I certainly hear my brothers and sisters in their hurt, but don’t actually step in and _stay in_ to do something besides praying or having _one_ good talk. 
+
+But if I actually believed my brothers and sisters in Christ were my _real_ brothers and sisters, I would move much further beyond that. See with family, no matter what happens, when you wake up in the morning they are still your family; they don’t go anywhere. We don’t give up on each other. I have one brother by blood and he is never a lost cause to me in what he thinks and does; his problems are never “not my problems;” and his closeness to me is never broken. I sit in the hard things that don’t change over one prayer or deep talk, that don’t foreseeably get better. I certainly speak candidly to him, even full blown argument, out of love because it matters to me what he values and how he treats others. I don’t let it slide when he says or does things I don’t agree with because he is tied to me. There are no “elephants in the room” that I need to address with family. I speak my mind. He is my family and, no matter what I do, I can’t, nor want, to detach from that. So that also means that when we have disagreement and get real we don’t walk away from each other. I don’t say “forget him.” The next day we still say we love each other, we still value and cherish the other as one with dignity. I will never view him as less. 
+
+So why would I act differently with my Christian family? Why would I avoid the tension, rubbing and bumping that is required for growth? Why would I allow the good parts of family and draw those out yet relegate the bad parts and true despair to a “quick fix” prayer or talk? Why, when there is disagreement or differences in personality, would I give up and relegate the relationship to one I “don’t want to deal with” or even as far as detaching them from my family? That’s not possible with family. The title of “brother” and “sister” in Christ is not a term to be used lightly, it’s not just a phrase. It is the internal reality that we all share in Christ. Urban Project has made me strongly rethink what “brother” and “sister” in Christ means to me, and whether or not I can consider the love I was showing my brothers and sisters before this trip real unconditional love. 
+
+Kendall - AIA Staff, San Diego State University
+
+\#UPLA18 @UrbanProjectLA
