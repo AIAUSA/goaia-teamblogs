@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: I'm very excited to see what the rest of the summer holds ...
 layout: blog-page
 title: Radically surpassed my expectations
 date: 2018-06-19 15:42:44 -0400
