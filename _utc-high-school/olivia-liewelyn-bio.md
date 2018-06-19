@@ -13,6 +13,8 @@ published: false
 
 **Intern Role:**  "Because I knew I was going to take an extra year at Hillsdale, last summer I thought about applying for the 2018 X project internship, and I suppose that was God's plan for me this summer because here I am in Xenia! I'm excited to see how God will help me grow professionally, relationally, and most importantly, spiritually."
 
+**HS UTC Role:**  She will serve as a small group leader and in a variety of other roles during the camp.
+
 Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
 ### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
