@@ -3,7 +3,6 @@ byLine: Jessica - University of Missouri
 layout: blog-page
 title: Community Healing
 date: 2018-06-19 02:54:40 -0400
-published: false
 ---
 ![](/uploads/2018/06/19/unnamed-6.jpg)
 
