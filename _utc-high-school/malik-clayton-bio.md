@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Lord, will you please mold me as you see fit?
 layout: blog-page
 title: Malik Clayton Bio
 date: 2018-06-19 13:06:00 -0400
