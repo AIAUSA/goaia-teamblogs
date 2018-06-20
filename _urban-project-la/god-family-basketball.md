@@ -3,7 +3,6 @@ byLine: Marissa - Chadron State College
 layout: blog-page
 title: God, Family, Basketball
 date: 2018-06-20 02:39:19 -0400
-published: false
 ---
 ![](/uploads/2018/06/20/unnamed-7.jpg)Today I’m going to talk about what God has done for me in both my life and sport. Before coming here I did not really open up to anybody that surrounded me when it comes to personal problems or even had an open heart to playing my sport or toward people that were just trying to love on me and show God love to me. My personal family is a big support toward me and my walk with Christ. 
 
