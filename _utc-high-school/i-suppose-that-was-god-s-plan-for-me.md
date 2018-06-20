@@ -3,7 +3,6 @@ byLine: God, will you help me grow?
 layout: blog-page
 title: I suppose that was God's plan for me
 date: 2018-06-20 16:09:06 -0400
-published: false
 ---
 ### Meet the X Project Intern Leaders:  Olivia
 
