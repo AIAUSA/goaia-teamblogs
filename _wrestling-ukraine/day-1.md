@@ -4,7 +4,6 @@ layout: blog-page
 filter: wrestling
 title: Day 1
 date: 2018-06-21 01:34:43 -0400
-published: false
 ---
 We woke up after a good night of sleep and had our first team Bible study. One of our goals of our teams is to equip athletes to become disciples who build build disciples. Our hope is that when guys return home they would be able start mentoring and leading others. Our study focused on how we play a part in God's story.
 
