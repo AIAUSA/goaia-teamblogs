@@ -24,4 +24,6 @@ The morning after the meet, we hiked up Montaña Roja to watch the sunset. At th
 
 \(image)
 
-Later in the week, as we were walking around the quaint town of La Laguna, we stopped to listen to a few street performers playing classic Flamenco music. These performers are some of the best musicians I’ve heard, but because of the lack of musical opportunity in Tenerife they are usually found on street corners playing and creating an amazing atmosphere here on the streets of La Laguna.
+Later in the week, as we were walking around the quaint town of La Laguna, we stopped to listen to a few street performers playing classic flamenco music. These performers are some of the best musicians I’ve heard, but because of the lack of musical opportunity in Tenerife they are usually found on street corners playing and creating an amazing atmosphere here on the streets of La Laguna.
+
+-Micah, for the team
