@@ -3,7 +3,6 @@ byLine: Are you moldable in His hands?
 layout: blog-page
 title: Mold me as you see fit
 date: 2018-06-21 17:17:05 -0400
-published: false
 ---
 ### Meet the X Project Intern Leaders:  Malik
 
