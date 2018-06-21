@@ -4,7 +4,6 @@ layout: blog-page
 filter: wrestling
 title: Travel Day
 date: 2018-06-21 01:22:34 -0400
-published: false
 ---
 The majority of our team started traveling early on Father's day from Seattle. We all met in Chicago and after a small delay with our plane to Germany we were on our way to Ukraine! It was fun to see the guys and start learning more about each others lives and prepare to share the next two weeks together.
 
