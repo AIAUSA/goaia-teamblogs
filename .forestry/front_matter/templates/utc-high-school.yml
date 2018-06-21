@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/mold-me-as-you-see-fit.md
 - _utc-high-school/it-s-still-calm-but-there-s-only-3-days-before.md
 - _utc-high-school/i-suppose-that-was-god-s-plan-for-me.md
 - _utc-high-school/radically-surpassed-my-expectations.md
