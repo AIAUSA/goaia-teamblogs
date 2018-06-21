@@ -3,7 +3,6 @@ byLine: Kristian - University of Missouri
 layout: blog-page
 title: Hidden Testimonies
 date: 2018-06-21 02:13:38 -0400
-published: false
 ---
 ![](/uploads/2018/06/21/Blog Image.png)
 
