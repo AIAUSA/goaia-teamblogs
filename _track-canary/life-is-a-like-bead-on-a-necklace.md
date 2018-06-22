@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Life Is a Like Bead on a Necklace...
 date: 2018-06-21 12:45:24 -0400
-published: false
 ---
 Our last day in Tenerife was so bittersweet. Of the two weeks we spent there, God gave us the prettiest day of all. It was actually warm and the sun was out all day! We celebrated Lauren’s birthday and then went up to a place called Mesa Mota to debrief and talk about what the trip meant to all of us. It made me realize how blessed we were that the Lord brought us all here, specifically, to know and learn from one another. The time that we spent together, with the Lord in prayer, and then overlooking the city of La Laguna together was so sweet. I was seriously trying to cherish every second!
 
