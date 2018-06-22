@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/prayer-will-be-the-key.md
 - _utc-high-school/the-best-ability-is-flexibility.md
 - _utc-high-school/mold-me-as-you-see-fit.md
 - _utc-high-school/it-s-still-calm-but-there-s-only-3-days-before.md
