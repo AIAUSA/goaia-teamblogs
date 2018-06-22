@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Best Birthday Yet!
 date: 2018-06-22 14:40:25 -0400
-published: false
 ---
 >  Our 'Merry in Canary' team is a true family.  I woke up this morning to our room decorated with balloons and a big "Happy Birthday" sign.  The girls had gone to Walmart while we were in the States to buy decorations to surprise me on our last day in the Canary Islands.  It was so unexpected!  The time and dedication they took to plan ahead with the decorations, set them up while I was sleeping, and keep it a surprise the whole time made me feel so loved.  And this was just the start to an incredible day.
 >
