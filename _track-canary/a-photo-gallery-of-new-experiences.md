@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: A Photo Gallery of New Experiences
 date: 2018-06-21 12:37:23 -0400
-published: false
 ---
 From running the BlueTrail 20k to listening to classic flamenco guitarists in the street, this trip has been full of excitement and the beauty of God’s creation has been on full display. Through it all, I’ve learned about the ways in which God’s love is able to be shown. For me, it requires continually and consistently taking the initiative to show God's love through my actions. God works in a myriad of ways and I’ve learned to just trust and have faith that God’s plan is in the works.
 
