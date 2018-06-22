@@ -14,6 +14,14 @@ It’s just a simple bracelet- one piece of yarn with a tiny bead, but with a gr
 
 The best part was that they were all so sweet, thankful and receptive to the message of the little matching bracelets from us! The coach came up to us and told us that he was so glad we could not only teach them about track but about life too! And whether he meant that in a spiritual standpoint or not, at least he noticed that we weren’t just there to physically train but to show them love! Some of our new teammates explained that they believed in Jesus too, which makes leaving a little easier because we are bonded not only through track but with Christ too! Some of the girls and I circled up to pray in English and then they prayed in Spanish & you could just feel God’s presence all around us! That night, they even posted different things on social media about our AIA team and thanking God for bringing us together! It was so special to see!
 
+![](/uploads/2018/06/22/IMG_6441.JPG)
+
+![](/uploads/2018/06/22/IMG_6444.JPG)
+
+\(In these photos, we're sharing the bracelets at a 5k race we participated in)
+
+![](/uploads/2018/06/22/IMG_6474.JPG)
+
 For the majority of this trip, I have sort of felt guilty in the back of my mind because I felt like the Lord was working on my heart more than working through me to help others. Obviously, it was exactly what I needed and I am so thankful, but I had assumed that this trip would be all about sharing the gospel with everyone around us the whole time. But in reality, we couldn’t just do that. We got to know them and show them that we cared about them, and then the Lord was able to make Himself known in a big way. It wasn’t just with a few people on the team, but with everyone! I know with my whole heart that He was with us at practice and in our conversations! My prayer is that something would spark the hearts of those who have yet to make the decision to follow Him. I believe that we did what Hid had in store for us and that He is faithful to continue working in the hearts of our sweet teammates.
 
 I don’t think that I doubted God and what He was doing, but I was beginning to wonder if there would be an opportunity to reach our amigos. Over the two weeks, we were in prayer for them and obviously the Lord was working on our hearts, so at just the right time we were able to speak His name boldly. I am so thankful for the friendships that we created on the track and everything we learned from them! They work so hard and seriously enjoy every second of being at practice. They were always so relaxed instead of focusing so much on being competitive and getting discouraged after a bad rep at practice. I know that this is something that God had for me to see, because it’s something that I have to work on! Jesus was also there to teach us that everything is perfect in His timing, not ours! He is the same God in the Canary Islands as He is at home, and I know that He is working in the hearts of those on their team.
