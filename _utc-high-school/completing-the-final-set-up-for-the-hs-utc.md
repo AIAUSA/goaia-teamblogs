@@ -3,7 +3,6 @@ byLine: The courts are ready.  Are you?
 layout: blog-page
 title: Completing the final set up for the HS UTC
 date: 2018-06-24 09:19:40 -0400
-published: false
 ---
 It's the day before the UTC starts.  Our team was busy constructing the volleyball courts, which are critical for teaching the camps principles.  Their waiting for our athletes who arrive today.
 
