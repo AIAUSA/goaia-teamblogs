@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/my-daughter-is-competitive-a-mom-s-perspective.md
 - _utc-high-school/we-re-all-here-and-ready-to-go.md
 - _utc-high-school/the-hs-utc-is-now-officially-open.md
 - _utc-high-school/completing-the-final-set-up-for-the-hs-utc.md
