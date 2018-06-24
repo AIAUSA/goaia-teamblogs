@@ -4,7 +4,6 @@ layout: blog-page
 filter: wrestling
 title: Day 2
 date: 2018-06-23 09:46:53 -0400
-published: false
 ---
 For our second the plan was for us to travel to a juvenile prison about 2.5 hours from Kiev and play soccer and share with the guys. We picked up Dima, Yuri's pastor, along the way. It is hard for outsiders to get into prisons to share here in Ukraine. But Dima has such a great reputation and has been ministering so long to prisons that we were able to go along with him. We had to submit all our passports ahead of time for security check, and once we arrived we all went through security, signed our documents and were lead to the prison yard. In this particular prison there are 36 inmates who serve anywhere from 1 to 12 years. While serving their sentences they are taught career skills so when they are released they are able to go back into society and find work. Our goal was also to give them hope for present and for eternity.
 
