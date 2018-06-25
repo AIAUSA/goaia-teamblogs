@@ -1,5 +1,5 @@
 ---
-byLine: Blog Post
+byLine: Brooke - Houston Area
 layout: blog-page
 title: Blog Post
 date: 2018-06-23 02:59:27 -0400
