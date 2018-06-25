@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Oh, the overwhelming, never-ending, reckless love of God
 layout: blog-page
 title: The love of God is breaking through!
 date: 2018-06-25 19:43:40 -0400
