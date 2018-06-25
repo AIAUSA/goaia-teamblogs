@@ -18,3 +18,15 @@ Listen to the Lab 2 and All Star match debriefings that took place earlier today
 #### **All Start Match**
 
 <iframe width="504" height="284" src="https://www.youtube.com/embed/IS6dIkb19sg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+**_Rick for the Team_**
+
+Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
+
+***
+
+#### **#UTCXenia     #UTCstory**
+
+Follow the HS UTC 2018 on  [Facebook](https://www.facebook.com/aiatotalathletecomplex/) & [Instagram](https://www.instagram.com/aia_sports_complex/)
+
+More about the  [AIA Sports Complex](http://www.aiasportscomplex.com/)
