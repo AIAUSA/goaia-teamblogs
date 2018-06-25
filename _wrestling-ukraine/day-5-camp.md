@@ -4,7 +4,6 @@ layout: blog-page
 filter: wrestling
 title: Day 5 Camp
 date: 2018-06-25 00:41:25 -0400
-published: false
 ---
 Today the teams will arrive for camp. Our team was treated to a traditional Ukrainian sauna in the morning. Some of the boys made it only 5 minutes while others enjoyed the experience off and on for about an hour and a half. Yuri used oak leaves on some of the guys as way to energize them. We had Shashylk barbecue for lunch. After lunch we headed to the local mall for some shopping, picking up snacks, and hit the Ukrainian chocolate store. Ukraine is famous for the chocolate. 
 
