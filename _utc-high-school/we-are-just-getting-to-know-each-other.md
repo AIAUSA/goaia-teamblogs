@@ -10,8 +10,6 @@ date: 2018-06-24 21:37:41 -0400
 
 Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
-
 ***
 
 #### **#UTCXenia     #UTCstory**
