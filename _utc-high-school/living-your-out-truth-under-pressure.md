@@ -3,7 +3,6 @@ byLine: What happens when things don't go well in your sport or life?
 layout: blog-page
 title: Living your out truth under pressure
 date: 2018-06-25 15:44:01 -0400
-published: false
 ---
 One of the big advantages to how the UTC's are set up centers on not only learning the 5 Principles, but stepping out right away to start applying them.
 
