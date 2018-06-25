@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/speed-agility-and-strength.md
 - _utc-high-school/living-your-out-truth-under-pressure.md
 - _utc-high-school/how-are-you-living-out-your-identity.md
 - _utc-high-school/does-your-identity-drive-you-jeff-s-takeaway.md
