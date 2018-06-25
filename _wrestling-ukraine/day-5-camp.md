@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Teams arrive and camp begins
 layout: blog-page
 filter: wrestling
 title: Day 5 Camp
