@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/understanding-our-identity-in-christ.md
 - _utc-high-school/what-is-your-inside-game-motivation.md
 - _utc-high-school/playing-for-the-world-cup-well-sort-of.md
 - _utc-high-school/relationships-take-time.md
