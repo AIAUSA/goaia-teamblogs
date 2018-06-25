@@ -9,6 +9,6 @@ One of the big advantages to how the UTC's are set up centers on not only learni
 
 Everyone has developed their own way of responding to challenges in their sport and life.  It's a journey of faith to relearn how to compete and live freely in your new identity.
 
-Listen to the All Star match debrief that took place earlier today.  The staff intentionally created a real life situation to allow our athletes to identify their spots of growth quickly.
+Listen to the Lab 2 and All Star match debriefings that took place earlier today.  The staff intentionally created a real life situation to allow our athletes to identify their spots of growth quickly.
 
   
