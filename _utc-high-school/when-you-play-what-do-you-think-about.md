@@ -18,8 +18,6 @@ What does all that mean.  Join our athletes as Mark unpacked this principle with
 
 Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
 
-### [**Ready to Register?**](https://my.athletesinaction.org/public/forms/SCRC-Camp.aspx)
-
 ***
 
 #### **#UTCXenia     #UTCstory**
