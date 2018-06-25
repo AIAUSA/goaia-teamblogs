@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: We have seen them grow with each camp.
 layout: blog-page
 title: Training with like-minded athletes
 date: 2018-06-24 21:33:57 -0400
