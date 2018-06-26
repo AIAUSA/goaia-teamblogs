@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: Thank you for blessing us.
 layout: blog-page
 title: Accepting His invitation
 date: 2018-06-26 19:52:50 -0400
