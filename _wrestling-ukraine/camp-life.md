@@ -29,3 +29,11 @@ Our daily schedule at camp has set in! Each day we
 We have had some great workouts at wrestling practice. Today the guys even got to have a former Russian national team member give only our boys a clinic for an hour!
 
 We had our Bible Study material translated into Russian so we have been able to invite others to join us! The last few days we have had Ukraine, Moldova, and Latvia all in attendance. We had almost 30 people at the study today as we learned about the importance of Prayer and some new was to pray lead by coach Brian.
+
+![](/uploads/2018/06/26/IMG_1838.JPG)
+
+Our nightly programs have been fantastic with singing (from Yuri's daughter Julia) and a speaker that will be here all week. We also play fun games each night, like passing a banana with your feet all the way down the line and then eating it.
+
+![](/uploads/2018/06/26/IMG_1833.JPG)
+
+The wrestlers and coaches have done a great job of paying attention and seem to enjoy the program. Our boys are getting a little tired of "camp food" but have some Nutella to keep them going.
