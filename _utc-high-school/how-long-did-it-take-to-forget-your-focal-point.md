@@ -15,6 +15,7 @@ Take a look at one mid match coaching moment and the lab debrief:
 
 <iframe width="504" height="284" src="https://www.youtube.com/embed/fY9BZq54qpk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+.
 
 #### Lab 3 Debrief
 
