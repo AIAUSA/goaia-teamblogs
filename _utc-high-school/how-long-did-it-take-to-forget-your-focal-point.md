@@ -13,4 +13,8 @@ Take a look at one mid match coaching moment and the lab debrief:
 
 #### Coaching Moment
 
+
+
 #### Lab 3 Debrief
+
+<iframe width="504" height="384" src="https://www.youtube.com/embed/_wJZmfNM5Gs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
