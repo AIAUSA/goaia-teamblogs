@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/day-2-evening-competition-ultimate-frisbee.md
 - _utc-high-school/the-love-of-god-is-breaking-through.md
 - _utc-high-school/speed-ball-a-fun-spin-on-the-classic-game.md
 - _utc-high-school/speed-agility-and-strength.md
