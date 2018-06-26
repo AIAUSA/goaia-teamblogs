@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/becoming-teammates.md
 - _utc-high-school/i-think-we-are-starting-to-get-this.md
 - _utc-high-school/did-you-forget-your-focal-point.md
 - _utc-high-school/get-the-most-from-your-training-for-sports-and-life.md
