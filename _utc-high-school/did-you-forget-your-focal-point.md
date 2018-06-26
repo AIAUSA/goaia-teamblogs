@@ -19,6 +19,9 @@ Take a look at one mid match coaching moment and the lab debrief:
 
 #### Lab 3 Debrief
 
+<iframe width="504" height="284" src="https://www.youtube.com/embed/_wJZmfNM5Gs?rel=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
 Rick for the Team
 
 Want to learn more contact [Laurel.Riley@athletesinaction.org](mailto:laurel.riley@athletesinaction.org)
