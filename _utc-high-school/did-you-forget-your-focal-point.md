@@ -3,7 +3,6 @@ byLine: There years of unlearning to do, but God can overcome it all.
 layout: blog-page
 title: Did you forget your "Focal Point"?
 date: 2018-06-26 14:22:07 -0400
-published: false
 ---
 Our first challenge to living out the Five Principles as we play our sport, let alone life is making the decision to buy in.  The second challenge is learning to change how you think about training, playing the game and how to react to life's experiences.
 
