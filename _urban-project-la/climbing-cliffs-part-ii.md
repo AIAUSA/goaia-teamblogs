@@ -3,7 +3,6 @@ byLine: Brooke - Houston Area
 layout: blog-page
 title: Climbing Cliffs (Part II)
 date: 2018-06-26 00:31:11 -0400
-published: false
 ---
 ![](/uploads/2018/06/25/IMG_2340.jpg)
 
