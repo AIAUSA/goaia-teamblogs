@@ -25,3 +25,5 @@ Anna brings a unique component to the Switzerland team as a physical therapist! 
 "I am praying that God can create healthy relationships and healing conversations during this trip." 
 
 Please pray she continues to walk closely with the Lord as she prepares for this trip and that she is continually gaining wisdom through His Word. And please pray the ministry for the whole team is influential to others.
+
+Also joining the team are Jacqueline, Amy, Paige, Jordyn and Sarah. Amy, Paige, Jordyn and Sarah will start their summer with Tuff Camp and then will head to Switzerland.
