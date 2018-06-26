@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/there-s-already-a-lot-to-think-about.md
 - _utc-high-school/we-started-the-day-with-jousting.md
 - _utc-high-school/day-2-evening-competition-ultimate-frisbee.md
 - _utc-high-school/the-love-of-god-is-breaking-through.md
