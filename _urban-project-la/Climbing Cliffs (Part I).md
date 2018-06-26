@@ -3,6 +3,7 @@ byLine: Brooke - Houston Area
 layout: blog-page
 title: Blog Post
 date: 2018-06-23 02:59:27 -0400
+published: false
 ---
 ![](/uploads/2018/06/25/IMG_2340.jpg)
 
