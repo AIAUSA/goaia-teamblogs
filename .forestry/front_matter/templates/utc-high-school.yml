@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/day-4-warm-up-with-medusa.md
 - _utc-high-school/a-classic-intern-vs-staff-battle.md
 - _utc-high-school/accepting-his-invitation.md
 - _utc-high-school/the-rain-has-come.md
