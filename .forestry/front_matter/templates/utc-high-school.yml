@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/god-is-in-the-redeeming-business.md
 - _utc-high-school/speed-ball-a-fun-spin-on-the-classic-game.md
 - _utc-high-school/playing-for-the-world-cup-well-sort-of.md
 - _utc-high-school/mold-me-as-you-see-fit.md
