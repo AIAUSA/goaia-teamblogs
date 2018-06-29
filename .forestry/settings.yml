@@ -3,7 +3,64 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
-collections: 
+collections:
+- path: _posts
+  label: Posts
+  create: all
+- path: _wrestling-ukraine
+  label: Wrestling-ukraine
+  create: all
+- path: _puerto-rico-spring-break
+  label: Puerto-rico-spring-break
+  create: all
+- path: _south-africa-spring-break
+  label: South-africa-spring-break
+  create: all
+- path: _basketball-poland
+  label: Basketball-poland
+  create: all
+- path: _aia-team-blogs
+  label: Aia-team-blogs
+  create: all
+- path: _sports-performance-armenia
+  label: Sports-performance-armenia
+  create: all
+- path: _x-project
+  label: X-project
+  create: all
+- path: _utc-high-school
+  label: Utc-high-school
+  create: all
+- path: _soccer-portugal
+  label: Soccer-portugal
+  create: all
+- path: _basketball-ethopia
+  label: Basketball-ethopia
+  create: all
+- path: _track-canary
+  label: Track-canary
+  create: all
+- path: _track-switzerland
+  label: Track-switzerland
+  create: all
+- path: _track-tuff
+  label: Track-tuff
+  create: all
+- path: _basketball-new-zealand
+  label: Basketball-new-zealand
+  create: all
+- path: _basketball-czech-spain
+  label: Basketball-czech-spain
+  create: all
+- path: _urban-project-la
+  label: Urban-project-la
+  create: all
+- path: _sports-performance-honduras
+  label: Sports-performance-honduras
+  create: all
+- path: ''
+  label: Pages
+  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
