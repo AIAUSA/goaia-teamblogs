@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: Athletes, Batons, and Camps
 date: 2018-06-30 19:46:55 -0400
-published: false
 ---
 
 With the first month of our internship going full blast, we as interns have settled into our individual roles and have come together for some key events. The athletic trainers have stayed relatively busy with the Xenia Scouts but had a break this past week as rain and storms cancelled a few games in a row. The interns in the office have grown into their roles as well, taking responsibility for planning the Total Athlete Camp and creating X-Project gear and marketing material. Each “team” of interns has had opportunities to grow together as a team, while still improving professionally in their fields. The traditional “Passing the Baton” banquet took place last Saturday, with the X-Project Staff transitioning out of the project and each of the interns given a primary and secondary role for the remainder of the project. This is different from other projects, with a lot of the staff remaining in the area or at HQ since they work here. However, having the staff close by is also a blessing. The discipleship relationships can continue and develop while also giving us interns the opportunity to take more responsibility and run with it. 
