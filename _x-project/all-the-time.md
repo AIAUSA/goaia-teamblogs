@@ -16,3 +16,5 @@ This week I can say that I have cried every single day I have been here, but the
 UTC has been an experience of bonding, tears, laughter, and challenges over the span of 6 days that I will cherish long after today. Our group of 14 interns were blessed beyond expectations this past week, and for that I cannot give God enough praise.
 
 God is good, all the time. All the time, God is good.
+
+_Written by Lindsey, XProject Intern_
