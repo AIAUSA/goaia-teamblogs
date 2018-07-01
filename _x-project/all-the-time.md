@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: All The Time
 date: 2018-06-30 20:00:54 -0400
-published: false
 ---
 This past Sunday we began welcoming high school students from all over the country to Ultimate Training Camp (UTC), a high intensity sports camp that blends faith and sport together. These high school kids are between 14-18 years old, coming from all different family backgrounds and life experiences to meet up at HQ here in Xenia for a week of intensive athletics. Their focus is learning the AIA Principles to help guide them in bringing their faith and relationship with Christ into their specialized sport. 
 
