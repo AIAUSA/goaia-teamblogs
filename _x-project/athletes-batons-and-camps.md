@@ -20,8 +20,6 @@ Mental and physical exhaustion is common during this week, even before the SPECI
 
 Although UTC requires a lot of time and attention from all of the interns and staff, the interns still have found time to encourage one another and spend time in community. Olivia Llewelyn said “the best thing I’ve experienced is fellowship with all of \[the interns\] and growing further in my faith and discipleship abilities.” We look forward to time spent together growing in our faith and relationship with each other. Although we all have different schedules and responsibilities, intentionality is not uncommon within the group of interns. Being surrounded by people who have the common goal of making the Lord known through sport is an enormous blessing, especially as a lot of the interns are in a position of soon graduating from college and making future plans. It has been an eye-opening experience for some, as the setting provided by the internship has revealed God’s work through the community around them to move in their life.
 
-!\[\](file:///C:/Users/HEATHE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image011.jpg =624x432)!\[\](file:///C:/Users/HEATHE\~1/AppData/Local/Temp/msohtmlclip1/01/clip_image013.jpg =576x864)
-
 HOW YOU CAN PRAY
 
 -pray for the athletes at the UTC and JAM camp
