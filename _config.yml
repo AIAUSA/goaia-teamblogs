@@ -69,6 +69,10 @@ collections:
     title: Wrestling - Ukraine
     output: true
     permalink: "/wrestling/teamblogs/:collection/:year/:path"
+  wrestling-central-asia:
+    title: Wrestling - Central Asia
+    output: true
+    permalink: "/wrestling/teamblogs/:collection/:year/:path"
 defaults:
 - scope:
     path: ''
@@ -179,6 +183,13 @@ defaults:
 - scope:
     path: ''
     type: wrestling-ukraine
+  values:
+    byLine: ''
+    layout: blog-page
+    filter: wrestling
+- scope:
+    path: ''
+    type: wrestling-central-asia
   values:
     byLine: ''
     layout: blog-page
