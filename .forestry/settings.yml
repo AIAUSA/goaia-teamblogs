@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
 collections:
+- path: _wrestling-central-asia
+  label: Wrestling-central-asia
+  create: all
 - path: _posts
   label: Posts
   create: all
