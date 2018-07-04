@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _x-project/land-of-the-free.md
 - _x-project/all-the-time.md
 - _x-project/athletes-batons-and-camps.md
 - _x-project/surrender.md
