@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/can-god-redeem-our-suffering.md
 - _utc-high-school/we-hit-the-ground-running.md
 - _utc-high-school/kyle-s-big-takeaway-on-principle-3.md
 - _utc-high-school/god-is-in-the-redeeming-business.md
