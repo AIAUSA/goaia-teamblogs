@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: The gospel impacting our sport and life.
 layout: blog-page
 title: I think we starting to get focal point.
 date: 2018-07-06 10:51:21 -0400
