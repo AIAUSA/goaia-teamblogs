@@ -1,5 +1,5 @@
 ---
-byLine: ''
+byLine: A video recap of Days 1 & 2 for the HS UTC.
 layout: blog-page
 title: We hit the ground running
 date: 2018-07-06 14:49:54 -0400
