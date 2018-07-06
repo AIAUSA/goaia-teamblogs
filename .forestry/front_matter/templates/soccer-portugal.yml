@@ -14,10 +14,10 @@ fields:
   hidden: true
   default: blog-page
 pages:
-- _soccer-portugal/we-ve-arrived-grady-h.md
-- _soccer-portugal/cinderella-story.md
-- _soccer-portugal/its-time-for-portugal.md
 - _soccer-portugal/last-day-in-barcelona.md
 - _soccer-portugal/day-two-today-was-a-grind.md
-- _soccer-portugal/gameday-in-barcelona.md
+- _soccer-portugal/its-time-for-portugal.md
+- _soccer-portugal/cinderella-story.md
+- _soccer-portugal/we-ve-arrived-grady-h.md
 - _soccer-portugal/ready-for-takeoff.md
+- _soccer-portugal/gameday-in-barcelona.md
