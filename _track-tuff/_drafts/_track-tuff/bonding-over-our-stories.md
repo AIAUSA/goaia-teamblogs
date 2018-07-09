@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 title: Bonding Over Our Stories
 date: 2018-07-09 10:57:35 -0400
-published: false
 ---
 The last few days getting prepared for TUFF Camp have been amazing so far. All of the counselors met up at the AIA headquarters in Xenia, Ohio where we got to meet each other and get an insight as to how we were all feeling going into camp. This is my first year coming to TUFF camp, so coming in I was nervous about what to expect, but I can honestly say that the last few days have been so fulfilling and amazing. The counselors and staff have all been so welcoming and open with sharing their backgrounds, journeys with faith, and their struggles as they are all continuing to navigate through the process of being collegiate athletes. 
 
