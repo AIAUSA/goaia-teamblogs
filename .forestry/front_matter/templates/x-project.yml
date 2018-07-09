@@ -1,4 +1,5 @@
 ---
+label: X-project
 hide_body: false
 is_partial: false
 fields:
@@ -13,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _x-project/as-his-daughter.md
 - _x-project/listen-with-your-eyes.md
 - _x-project/land-of-the-free.md
 - _x-project/all-the-time.md
