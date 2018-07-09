@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: 'As His Daughter '
 date: 2018-07-09 11:28:49 -0400
-published: false
 ---
 My time here at X Project thus far has been so influential in many ways. Immersed within an environment centered on Christ, it’s almost as if by interning at Athletes in Action’s headquarters the Lord has confirmed to me that athlete ministry is the career path I should follow after college. On our first day, an AIA staff member gave us interns a tour around headquarters. I remember getting butterflies in my stomach hearing about AIA’s history, mission, and vision, its various projects and ministries around the country, and the impact it has had on the lives of athletes and staff members. The butterflies have only intensified throughout my time here. Having project dinners, spending time in the office with my fellow interns, and helping lead at the high school Ultimate Training Camp has shown me that working for AIA truly _is_ a life goal of mine.  
 
