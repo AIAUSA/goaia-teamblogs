@@ -2,7 +2,7 @@
 title: Meet The Ladies
 layout: blog-page
 filter: track
-date: 2018-05-03 15:27:32 +0000
+date: 2018-07-09 15:27:32 +0000
 byLine: ''
 ---
 ![](/uploads/2018/05/03/Schwartz_Brianna_2017.jpg)  

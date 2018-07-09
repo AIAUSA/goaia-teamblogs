@@ -2,7 +2,7 @@
 title: Ministry in the Mountains
 layout: blog-page
 filter: track
-date: 2018-05-02 19:42:55 +0000
+date: 2018-07-09 19:42:55 +0000
 byLine: ''
 ---
 ![](/uploads/2018/05/03/Top of the World logo.jpg)

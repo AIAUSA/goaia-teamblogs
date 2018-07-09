@@ -2,7 +2,7 @@
 title: Meet The Ladies, Part 1
 layout: blog-page
 filter: track
-date: 2018-05-03 11:13:40 -0400
+date: 2018-07-09 11:13:40 -0400
 byLine: ''
 ---
 ![](/uploads/2018/05/02/Screen Shot 2018-03-21 at 10.36.24 AM.png)  
