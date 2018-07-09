@@ -4,6 +4,7 @@ layout: blog-page
 filter: track
 date: 2018-05-03 15:30:50 +0000
 byLine: ''
+published: false
 ---
 ![](/uploads/2018/05/02/mtr_gideon_1.jpg.jpeg)  
 Kevin is a native New Yorker, but currently resides in Ohio where he is a sophomore at Cedarville University. When he's not on the track running the 1500m and the steeplechase, he's hitting the Adirondacks for some hiking or skiing!
