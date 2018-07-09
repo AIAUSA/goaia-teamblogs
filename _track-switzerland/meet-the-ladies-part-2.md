@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 date: 2018-07-09 15:17:37 +0000
 byLine: ''
-published: false
 ---
 ![](/uploads/2018/05/02/Paige.jpg)  
 Paige was born and raised in Pottsville, PA and this Syracuse senior is joining our Switzerland team! She is looking forward to learn how to more effectively share her faith, especially with younger athletes (she will also be helping with the Tuff Camp!)
