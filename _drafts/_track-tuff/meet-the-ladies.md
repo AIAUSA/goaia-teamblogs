@@ -4,7 +4,6 @@ layout: blog-page
 filter: track
 date: 2018-05-03 15:27:32 +0000
 byLine: ''
-published: false
 ---
 ![](/uploads/2018/05/03/Schwartz_Brianna_2017.jpg)  
 Bri is a junior at the University of Colorado and she is returning to serve as Tuff Camp Staff!
