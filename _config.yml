@@ -10,6 +10,10 @@ collections:
     title: South Africa Spring Break
     output: true
     permalink: "/opportunity/blog/:collection/:year/:path"
+  south-africa-project:
+    title: South Africa Project
+    output: true
+    permalink: "/opportunity/blog/:collection/:year/:path"
   basketball-poland:
     title: Basketball - Poland
     output: true
@@ -83,6 +87,12 @@ defaults:
 - scope:
     path: ''
     type: south-africa-spring-break
+  values:
+    byLine: ''
+    layout: blog-page
+- scope:
+    path: ''
+    type: south-africa-project
   values:
     byLine: ''
     layout: blog-page
