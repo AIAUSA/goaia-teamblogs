@@ -4,6 +4,9 @@ auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
 collections:
+- path: _south-africa-project
+  label: South africa project
+  create: all
 - path: _wrestling-central-asia
   label: Wrestling-central-asia
   create: all
