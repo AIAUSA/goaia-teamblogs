@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: Provision
 date: 2018-07-12 13:38:04 -0400
-published: false
 ---
 ![](https://lh3.googleusercontent.com/dI14GDVNAoKSF_jNnJZij71-LkpdAVSneCqwLmMZ58uYBXx6Q4u-fHlO2pAWgkGWYg04f3D9XBfA2JnvEgM93XBP6g_aKdrp5aCdG_m6FsaFjXohxzkHzZrWYyPBdeiTacjR9Sp4 =624x416)  
 
