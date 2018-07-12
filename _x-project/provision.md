@@ -23,4 +23,6 @@ Though this summer started off as a means of meeting a graduation requirement, i
 
   
   
-_Written by Ali, X Project Intern_![](https://lh4.googleusercontent.com/YLkH1i--Sz_8j97Kv5WZg1XQzyAidU2TUCoGQAmoaeSHL730f_P16xTY3tIiL3DhYjC93PT7zxKjgyGrwv58ymL-If3tCJ1T-hWx-ezuaAn7BKi25jCMW6OxxZMrLmilRIOvsqg5 =624x393)      
+_Written by Ali, X Project Intern_
+
+![](https://lh4.googleusercontent.com/YLkH1i--Sz_8j97Kv5WZg1XQzyAidU2TUCoGQAmoaeSHL730f_P16xTY3tIiL3DhYjC93PT7zxKjgyGrwv58ymL-If3tCJ1T-hWx-ezuaAn7BKi25jCMW6OxxZMrLmilRIOvsqg5 =624x393)      
