@@ -4,8 +4,7 @@ layout: blog-page
 title: Provision
 date: 2018-07-13 09:32:06 -0400
 ---
-![](/uploads/2018/07/13/AT Team.jpg)
-
+  
 I have learned many things this summer but one thing I’ve learned that continues to be an ongoing theme is God’s provision. A year ago I knew I would need an Athletic Training internship to graduate, so I began looking. I had intentions of going back to my hometown and working at a division two school to fulfill program requirements. However, those plans fell through nine months ago and I was back to square one in searching for an internship. Within the same week, a good friend of mine mentioned a previous dream I had shared with her two years past. The dream was to do a summer mission with Cru. This lead to me researching their opportunities and eventually stumbling across X-Project, which was ideal.
 
 After a phone conference with my now supervisor, my program directors gave me the green light. I applied, had two interviews, and two months later received an email confirming my spot.
@@ -19,7 +18,5 @@ This summer I’ve had the opportunity to witness and help others combine their 
 The experiences have helped me see how God works not only in this field, but also in those I have gotten to work with. The preceptors I’ve had the privilege to work with are some of the most intelligent and servant-hearted people I have ever met. They’ve shown me what it looks like to give grace in every moment and how to care for athletes not only physically, but also holistically, making sure to take the psychological, social and spiritual factors into consideration as well.
 
 Though this summer started off as a means of meeting a graduation requirement, it has become so much more than that for me. He has shown me ways to bring him into every part of my life, not just my work. He’s given me resources to keep growing. He’s provided an amazing group of people to work with this summer who inspire and challenge me daily. And He’s given himself completely that I may love and serve in whatever capacity he calls me to.
-
-![](/uploads/2018/07/12/IMG_3823-1.JPG)
 
 _Written by Ali, X Project Intern_
