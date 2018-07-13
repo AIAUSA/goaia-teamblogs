@@ -15,7 +15,6 @@ fields:
   default: blog-page
 pages:
 - _x-project/surrender.md
-- _x-project/provision.md
 - _x-project/land-of-the-free.md
 - _x-project/meet-the-team-karen-purpero.md
 - _x-project/x-project-2018.md
