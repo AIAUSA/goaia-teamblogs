@@ -4,6 +4,8 @@ layout: blog-page
 title: Provision
 date: 2018-07-13 09:32:06 -0400
 ---
+![](/uploads/2018/07/13/AT Team.jpg)
+
 I have learned many things this summer but one thing I’ve learned that continues to be an ongoing theme is God’s provision. A year ago I knew I would need an Athletic Training internship to graduate, so I began looking. I had intentions of going back to my hometown and working at a division two school to fulfill program requirements. However, those plans fell through nine months ago and I was back to square one in searching for an internship. Within the same week, a good friend of mine mentioned a previous dream I had shared with her two years past. The dream was to do a summer mission with Cru. This lead to me researching their opportunities and eventually stumbling across X-Project, which was ideal.
 
 After a phone conference with my now supervisor, my program directors gave me the green light. I applied, had two interviews, and two months later received an email confirming my spot.
