@@ -20,4 +20,6 @@ The experiences have helped me see how God works not only in this field, but als
 
 Though this summer started off as a means of meeting a graduation requirement, it has become so much more than that for me. He has shown me ways to bring him into every part of my life, not just my work. He’s given me resources to keep growing. He’s provided an amazing group of people to work with this summer who inspire and challenge me daily. And He’s given himself completely that I may love and serve in whatever capacity he calls me to.
 
+![](/uploads/2018/07/12/IMG_3823-1.JPG)
+
 _Written by Ali, X Project Intern_
