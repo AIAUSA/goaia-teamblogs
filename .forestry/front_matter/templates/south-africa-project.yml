@@ -14,3 +14,5 @@ fields:
   description: blog-page
   hidden: true
   default: blog-page
+pages:
+- _south-africa-project/south-africa-project-begins.md
