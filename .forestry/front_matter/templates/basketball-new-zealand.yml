@@ -14,3 +14,5 @@ fields:
   description: blog-page
   hidden: true
   default: blog-page
+pages:
+- _basketball-new-zealand/new-zealand-team-roster.md
