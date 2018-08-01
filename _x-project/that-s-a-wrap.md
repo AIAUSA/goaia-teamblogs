@@ -3,7 +3,6 @@ byLine: ''
 layout: blog-page
 title: That's a Wrap
 date: 2018-08-01 16:53:49 -0400
-published: false
 
 ---
 With Xenia in our rear-view mirrors, a time of reflection is needed to remember the events and effects of the summer. How fortunate to have 13 peers to do life with, learn from, grow in knowledge of the Lord with, encourage, and cultivate deep friendships with. So many thoughts are present – thoughts of thankfulness, joy, sadness, anticipation, expectation, and fullness. We leave this summer with a deeper knowledge of the Lord’s love, kindness, provision, strength, glory, and holiness, a greater appreciation for God’s work through sport, a deeper understanding of the power found in community. Memories abound and friendships for a lifetime are a highlight of nine weeks spent in Xenia, Ohio. The challenges we faced personally this summer were met with open arms, wisdom, and support from brothers and sisters in Christ, known by God to become a family.  
