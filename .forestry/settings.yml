@@ -3,68 +3,106 @@ new_page_extension: md
 auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
-collections:
-- path: _south-africa-project
+sections:
+- type: directory
+  path: _south-africa-project
   label: South africa project
   create: all
-- path: _wrestling-central-asia
+  match: "**/*"
+- type: directory
+  path: _wrestling-central-asia
   label: Wrestling-central-asia
   create: all
-- path: _posts
+  match: "**/*"
+- type: jekyll-posts
   label: Posts
   create: all
-- path: _wrestling-ukraine
+- type: directory
+  path: _wrestling-ukraine
   label: Wrestling-ukraine
   create: all
-- path: _puerto-rico-spring-break
+  match: "**/*"
+- type: directory
+  path: _puerto-rico-spring-break
   label: Puerto-rico-spring-break
   create: all
-- path: _south-africa-spring-break
+  match: "**/*"
+- type: directory
+  path: _south-africa-spring-break
   label: South-africa-spring-break
   create: all
-- path: _basketball-poland
+  match: "**/*"
+- type: directory
+  path: _basketball-poland
   label: Basketball-poland
   create: all
-- path: _aia-team-blogs
+  match: "**/*"
+- type: directory
+  path: _aia-team-blogs
   label: Aia-team-blogs
   create: all
-- path: _sports-performance-armenia
+  match: "**/*"
+- type: directory
+  path: _sports-performance-armenia
   label: Sports-performance-armenia
   create: all
-- path: _x-project
+  match: "**/*"
+- type: directory
+  path: _x-project
   label: X-project
   create: all
-- path: _utc-high-school
+  match: "**/*"
+- type: directory
+  path: _utc-high-school
   label: Utc-high-school
   create: all
-- path: _soccer-portugal
+  match: "**/*"
+- type: directory
+  path: _soccer-portugal
   label: Soccer-portugal
   create: all
-- path: _basketball-ethopia
+  match: "**/*"
+- type: directory
+  path: _basketball-ethopia
   label: Basketball-ethopia
   create: all
-- path: _track-canary
+  match: "**/*"
+- type: directory
+  path: _track-canary
   label: Track-canary
   create: all
-- path: _track-switzerland
+  match: "**/*"
+- type: directory
+  path: _track-switzerland
   label: Track-switzerland
   create: all
-- path: _track-tuff
+  match: "**/*"
+- type: directory
+  path: _track-tuff
   label: Track-tuff
   create: all
-- path: _basketball-new-zealand
+  match: "**/*"
+- type: directory
+  path: _basketball-new-zealand
   label: Basketball-new-zealand
   create: all
-- path: _basketball-czech-spain
+  match: "**/*"
+- type: directory
+  path: _basketball-czech-spain
   label: Basketball-czech-spain
   create: all
-- path: _urban-project-la
+  match: "**/*"
+- type: directory
+  path: _urban-project-la
   label: Urban-project-la
   create: all
-- path: _sports-performance-honduras
+  match: "**/*"
+- type: directory
+  path: _sports-performance-honduras
   label: Sports-performance-honduras
   create: all
-- path: ''
+  match: "**/*"
+- type: jekyll-pages
   label: Pages
   create: all
 upload_dir: uploads
