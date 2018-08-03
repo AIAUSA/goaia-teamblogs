@@ -22,6 +22,6 @@ Our last gathering as a full group was breakfast at Chick-fil-A, where we were a
 
 > “Though our internship with AIA is complete and we don’t know if we will all be together in one place again until heaven, the work and the investment that started in Ohio is just the beginning. The joy and intentionality we experienced this summer is only a small piece of what the Lord has planned for us. Being able to see others on fire for the Lord has fanned our small flames and inspired us to begin to catch fire. No matter where the Lord calls us after this summer, this journey has been one to remember. Xenia will always have a special place in our hearts and this summer will always be a continual connection point between the interns. This summer will be looked back on as a time of growth and huge influence on our faith walks. This summer will be a reminder of just how good God is and how great He’ll move when you give him your time.” -Ali and Josiah 
 
-![](/uploads/2018/08/01/IMG_0173.jpg)
+![](/uploads/2018/08/01/IMG_0173.JPG)
 
 _Written by Heather, X Project intern_
