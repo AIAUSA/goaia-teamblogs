@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/setting-the-right-tone.md
 - _utc-high-school/a-classic-warm-up-i-like-to.md
 - _utc-high-school/we-could-not-do-it-without-them.md
 - _utc-high-school/it-s-the-foundation-of-god-s-creation.md
