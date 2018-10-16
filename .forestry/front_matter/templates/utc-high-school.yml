@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/we-could-not-do-it-without-them.md
 - _utc-high-school/it-s-the-foundation-of-god-s-creation.md
 - _utc-high-school/concussions-what-are-they.md
 - _utc-high-school/did-you-forget-your-focal-point.md
