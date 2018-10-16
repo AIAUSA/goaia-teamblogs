@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/the-special-ultimate-frisbee.md
 - _utc-high-school/the-special-push-up-relay.md
 - _utc-high-school/the-special-volleyball-competition.md
 - _utc-high-school/starting-out-right.md
