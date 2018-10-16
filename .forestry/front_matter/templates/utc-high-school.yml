@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/the-special-soccer-tag.md
 - _utc-high-school/their-starting-to-feel-it.md
 - _utc-high-school/the-special-ultimate-frisbee.md
 - _utc-high-school/the-special-push-up-relay.md
