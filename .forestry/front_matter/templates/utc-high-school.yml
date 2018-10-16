@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/the-special-what-is-it.md
 - _utc-high-school/the-special-begins-in-90-minutes.md
 - _utc-high-school/remember-it-s-not-about-you.md
 - _utc-high-school/god-has-given-us.md
