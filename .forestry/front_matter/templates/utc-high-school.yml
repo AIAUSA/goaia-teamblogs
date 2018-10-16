@@ -14,7 +14,6 @@ fields:
   hidden: false
   default: blog-page
 pages:
-- _utc-high-school/god-has-given-us.md
 - _utc-high-school/god-requires-our-total-investment.md
 - _utc-high-school/setting-the-right-tone.md
 - _utc-high-school/a-classic-warm-up-i-like-to.md
