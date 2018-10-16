@@ -14,6 +14,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/the-special-obstacle-course.md
 - _utc-high-school/the-special-burpee-derby-competition.md
 - _utc-high-school/the-special-tug-o-war.md
 - _utc-high-school/the-special-wall-plank-wars.md
