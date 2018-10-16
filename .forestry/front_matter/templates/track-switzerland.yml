@@ -18,8 +18,3 @@ fields:
   type: text
   hidden: false
   default: track
-pages:
-- _track-switzerland/our-fearless-leaders.md
-- _track-switzerland/meet-the-ladies-part-2.md
-- _track-switzerland/meet-the-ladies-part-1.md
-- _track-switzerland/ministry-in-the-mountains.md

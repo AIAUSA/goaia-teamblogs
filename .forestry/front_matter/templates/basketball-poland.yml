@@ -15,8 +15,8 @@ fields:
   hidden: true
   default: blog-page
 pages:
-- _basketball-poland/meet-the-players-kaylee-stroemple.md
 - _basketball-poland/meet-the-players-kori-west.md
+- _basketball-poland/meet-the-players-kaylee-stroemple.md
 - _basketball-poland/meet-the-players-morgan-ham.md
 - _basketball-poland/player-introductions.md
 - _basketball-poland/meet-the-players-janay-morton.md
