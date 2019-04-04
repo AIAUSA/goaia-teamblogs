@@ -1,0 +1,21 @@
+---
+label: Sports-perfomance-south-africa
+hide_body: false
+is_partial: false
+fields:
+- name: byLine
+  label: Byline
+  type: text
+  hidden: false
+  default: ''
+- name: layout
+  label: Layout
+  type: text
+  hidden: false
+  default: blog-page
+- name: filter
+  label: Filter
+  type: text
+  hidden: false
+  default: sports-performance
+pages:

@@ -102,6 +102,11 @@ sections:
   label: Sports-performance-honduras
   create: all
   match: "**/*"
+- type: directory
+  path: _sports-performance-south-africa
+  label: Sports-performance-south-africa
+  create: all
+  match: "**/*"
 - type: jekyll-pages
   label: Pages
   create: all
