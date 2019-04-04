@@ -17,3 +17,5 @@ fields:
   type: text
   hidden: false
   default: sports-performance
+pages:
+- _sports-performance-south-africa/SP SA 3/1-2, 2019.md
