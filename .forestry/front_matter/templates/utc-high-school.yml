@@ -1,7 +1,6 @@
 ---
 label: Utc-high-school
 hide_body: false
-is_partial: false
 fields:
 - name: byLine
   label: Byline
@@ -14,6 +13,8 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _utc-high-school/remember-it-s-not-about-you.md
+- _utc-high-school/the-special-kickball-competition.md
 - _utc-high-school/high-school-utc-2018-recap.md
 - _utc-high-school/post-special-worship-time.md
 - _utc-high-school/the-special-army-crawl-golgotha.md
@@ -21,7 +22,6 @@ pages:
 - _utc-high-school/the-special-burpee-derby-competition.md
 - _utc-high-school/the-special-tug-o-war.md
 - _utc-high-school/the-special-wall-plank-wars.md
-- _utc-high-school/the-special-kickball-competition.md
 - _utc-high-school/the-special-soccer-tag.md
 - _utc-high-school/their-starting-to-feel-it.md
 - _utc-high-school/the-special-ultimate-frisbee.md
@@ -32,7 +32,6 @@ pages:
 - _utc-high-school/announcing-our-special-teams.md
 - _utc-high-school/the-special-what-is-it.md
 - _utc-high-school/the-special-begins-in-90-minutes.md
-- _utc-high-school/remember-it-s-not-about-you.md
 - _utc-high-school/god-has-given-us.md
 - _utc-high-school/god-requires-our-total-investment.md
 - _utc-high-school/setting-the-right-tone.md

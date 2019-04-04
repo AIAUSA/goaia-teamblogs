@@ -1,7 +1,6 @@
 ---
 label: Sports perfomance honduras
 hide_body: false
-is_partial: false
 fields:
 - name: byLine
   label: Byline
