@@ -2,12 +2,10 @@
 layout: blog-page
 filter: sports-performance
 byLine: Naomi R.
-date: 2019-04-04 17:02:12 -0400
+date: 2019-04-04 21:02:12 +0000
 published: false
 
 ---
-March 5-6, 2019
-
 Our day Tuesday began with team time at UWC where we got the chance to dive into our identity as believers and ask ourselves the question, “what motivates me?” We had one of the student athletes that Henk has been discipling, join us! It was a great time to connect and dive into God’s word together. Our identity in Christ is foundational as we walk out this faith life together in community! We have to know who we are and Whose we are. I encourage you to dive in and ask yourself the question, what motivates me? Let God show you!
 
 Later in the morning, I had the opportunity to teach the students a speed progression program that was shared with me. I was thankful to be able to share the knowledge that was shared with me. The students asked great questions and participated throughout the session. This talk opened up opportunities for building relationships later in the week! In the afternoon, the faculty in the sports science department hosted us for a luncheon. It was a sweet time to connect and fellowship together over a meal. I was so encouraged by the fruitful conversations about faith, sport, and work that took place.
@@ -22,4 +20,6 @@ Wednesday was our sight seeing day! I can honestly say I’ve never been to a pl
 
 ![](/uploads/fullsizeoutput_2f1.jpeg)
 
-![](/uploads/naomi's sunset.jpg)
+![](/uploads/fullsizeoutput_2fe.jpeg)
+
+Naomi
