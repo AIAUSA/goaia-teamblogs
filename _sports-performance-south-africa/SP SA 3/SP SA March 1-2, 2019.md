@@ -3,7 +3,6 @@ layout: blog-page
 filter: sports-performance
 byLine: Dane S.
 date: 2019-04-04 20:37:05 +0000
-published: false
 
 ---
 Sports Performance Goes to Cape Town
