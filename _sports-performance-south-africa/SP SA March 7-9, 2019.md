@@ -3,7 +3,6 @@ layout: blog-page
 filter: sports-performance
 byLine: Lisa M.
 date: 2019-04-04 22:04:04 +0000
-published: false
 
 ---
 On Thursday, we started our morning at the UWC campus and had our team time.  We were joined by Henk and Thamar (Henk has been discipling him).  It was great to have him with us.  We learned a lot from him and his experiences.  We then left and went to the Sports Science Institute where we met Zoe.  Zoe has been a part of our sports performance teams since 2012.  She works at the Sports Science Institute now and had our team there as guests.  The things they are doing with technology there are amazing.  The best part for me honestly was just being able to reconnect with Zoe, she is a dear friend.  After our time with Zoe we went back to campus and had a session with coaches from the university and spoke about sports injuries and the best way to treat them.  We all wished that we had more time with them and are planning that for next year.

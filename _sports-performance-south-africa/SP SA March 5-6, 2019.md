@@ -3,7 +3,6 @@ layout: blog-page
 filter: sports-performance
 byLine: Naomi R.
 date: 2019-04-04 21:02:12 +0000
-published: false
 
 ---
 Our day Tuesday began with team time at UWC where we got the chance to dive into our identity as believers and ask ourselves the question, “what motivates me?” We had one of the student athletes that Henk has been discipling, join us! It was a great time to connect and dive into God’s word together. Our identity in Christ is foundational as we walk out this faith life together in community! We have to know who we are and Whose we are. I encourage you to dive in and ask yourself the question, what motivates me? Let God show you!

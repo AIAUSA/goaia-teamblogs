@@ -3,7 +3,6 @@ layout: blog-page
 filter: sports-performance
 byLine: Synthia G.
 date: 2019-04-04 20:57:03 +0000
-published: false
 
 ---
 On Sunday we went to a worship service with our friends in Khayelitsha at Go Ye Evangelistic Ministries and it was nothing short of INCREDIBLE!!! God was truly in the building and every one of us could feel His spirit. Every song spoke to our hearts and the sermon was spot on. We got the opportunity to introduce ourselves, sing and dance with them, and pray for them. Apostle Adoorns and his wife made us feel so welcome. The women’s ministry was also gracious enough to provide a meal for us of traditional African dishes after the service which allowed us to be able to fellowship with them for a little while longer. We learned so much about each other and it was an amazing time in the Lord. We walked into church guests and left family. After leaving the church grounds some AIA friends that participated in the UTC South Africa over the past couple of years took us to an overlook that allowed us to see the ENTIRE TOWNSHIP of Khayelitsha!!! It was.... wow! We truly appreciated their hospitality and the chance to continue our fellowship with our brothers in Christ beyond worship service. After a great dinner, we needed our activities for the night.
