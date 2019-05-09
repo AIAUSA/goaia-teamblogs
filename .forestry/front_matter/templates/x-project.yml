@@ -13,19 +13,19 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _x-project/meet-the-team-vince.md
+- _x-project/meet-the-team-the-holmstrom-s.md
 - _x-project/meet-the-team-kelly.md
 - _x-project/welcome-weekend.md
-- _x-project/that-s-a-wrap.md
-- _x-project/provision.md
+- _x-project/as-his-daughter.md
+- _x-project/all-the-time.md
+- _x-project/athletes-batons-and-camps.md
 - _x-project/meet-the-team-mary-gooding.md
 - _x-project/x-project-2018.md
 - _x-project/meet-the-team-karen-purpero.md
-- _x-project/as-his-daughter.md
 - _x-project/land-of-the-free.md
-- _x-project/all-the-time.md
-- _x-project/athletes-batons-and-camps.md
+- _x-project/that-s-a-wrap.md
+- _x-project/provision.md
 - _x-project/surrender.md
-- _x-project/meet-the-team-vince.md
 - _x-project/meet-the-team-the-hardy-s.md
 - _x-project/week-1-in-the-books.md
-- _x-project/meet-the-team-the-holmstrom-s.md

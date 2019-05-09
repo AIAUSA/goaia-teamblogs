@@ -35,9 +35,6 @@ sections:
   label: Wrestling-central-asia
   create: all
   match: "**/*"
-- type: jekyll-posts
-  label: Posts
-  create: all
 - type: directory
   path: _wrestling-ukraine
   label: Wrestling-ukraine
@@ -115,9 +112,6 @@ sections:
   label: Utc-high-school
   create: all
   match: "**/*"
-- type: jekyll-pages
-  label: Pages
-  create: all
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
