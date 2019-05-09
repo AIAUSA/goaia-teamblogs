@@ -4,11 +4,32 @@ auto_deploy: false
 admin_path: "/teamblogs/admin"
 webhook_url: 
 sections:
+- type: heading
+  label: Campus Projects
 - type: directory
   path: _south-africa-project
   label: South africa project
   create: all
   match: "**/*"
+- type: directory
+  path: _urban-project-la
+  label: Urban-project-la
+  create: all
+  match: "**/*"
+- type: heading
+  label: Spring Breaks
+- type: directory
+  path: _puerto-rico-spring-break
+  label: Puerto-rico-spring-break
+  create: all
+  match: "**/*"
+- type: directory
+  path: _south-africa-spring-break
+  label: South-africa-spring-break
+  create: all
+  match: "**/*"
+- type: heading
+  label: Sports Teams
 - type: directory
   path: _wrestling-central-asia
   label: Wrestling-central-asia
@@ -20,16 +41,6 @@ sections:
 - type: directory
   path: _wrestling-ukraine
   label: Wrestling-ukraine
-  create: all
-  match: "**/*"
-- type: directory
-  path: _puerto-rico-spring-break
-  label: Puerto-rico-spring-break
-  create: all
-  match: "**/*"
-- type: directory
-  path: _south-africa-spring-break
-  label: South-africa-spring-break
   create: all
   match: "**/*"
 - type: directory
@@ -50,11 +61,6 @@ sections:
 - type: directory
   path: _x-project
   label: X-project
-  create: all
-  match: "**/*"
-- type: directory
-  path: _utc-high-school
-  label: Utc-high-school
   create: all
   match: "**/*"
 - type: directory
@@ -93,11 +99,6 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: _urban-project-la
-  label: Urban-project-la
-  create: all
-  match: "**/*"
-- type: directory
   path: _sports-performance-honduras
   label: Sports-performance-honduras
   create: all
@@ -105,6 +106,13 @@ sections:
 - type: directory
   path: _sports-performance-south-africa
   label: Sports-performance-south-africa
+  create: all
+  match: "**/*"
+- type: heading
+  label: Other
+- type: directory
+  path: _utc-high-school
+  label: Utc-high-school
   create: all
   match: "**/*"
 - type: jekyll-pages
