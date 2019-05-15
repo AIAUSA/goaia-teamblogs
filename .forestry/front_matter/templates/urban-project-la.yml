@@ -13,6 +13,7 @@ fields:
   hidden: false
   default: blog-page
 pages:
+- _urban-project-la/Welcome to the 2019 Urban Project – Los Angeles.md
 - _urban-project-la/welcome.md
 - _urban-project-la/the-lord-is-my-rock.md
 - _urban-project-la/play-freely.md
