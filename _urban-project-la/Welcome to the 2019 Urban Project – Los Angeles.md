@@ -1,6 +1,7 @@
 ---
 byLine: Welcome to the Urban Project – Los Angeles!
 layout: blog-page
+published: false
 
 ---
 Welcome to the blog for the Urban Project – Los Angeles (UP-LA). We invite you to visit this page daily to follow the events and course of the Urban Project.
