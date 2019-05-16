@@ -1,4 +1,5 @@
 #Travis - 2/16/18
+dist: trusty
 language: ruby
 rvm:
   - 2.1
