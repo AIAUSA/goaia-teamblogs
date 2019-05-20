@@ -16,6 +16,8 @@ sections:
   label: Urban-project-la
   create: all
   match: "**/*"
+  templates:
+  - urban-project-la
 - type: heading
   label: Spring Breaks
 - type: directory
