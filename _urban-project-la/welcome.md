@@ -3,7 +3,6 @@ byLine: UP-LA
 layout: blog-page
 title: Welcome!
 date: '2018-05-30T03:52:44.000+00:00'
-published: false
 
 ---
 Welcome to the student blog for the Urban Project – Los Angeles (UP-LA). We invite you to visit this page daily to follow the events and course of the Urban Project.
