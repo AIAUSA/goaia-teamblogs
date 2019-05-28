@@ -7,7 +7,6 @@ sections:
 - type: document
   path: _aia-team-blogs/Getting-Started.md
   label: Getting Started
-  match: "**/*"
   read_only: true
 - type: heading
   label: Campus Projects
