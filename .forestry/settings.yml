@@ -31,11 +31,15 @@ sections:
   label: Puerto-rico-spring-break
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _south-africa-spring-break
   label: South-africa-spring-break
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: heading
   label: Sports Teams
 - type: directory
@@ -43,19 +47,18 @@ sections:
   label: Wrestling-central-asia
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _wrestling-ukraine
   label: Wrestling-ukraine
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _basketball-poland
   label: Basketball-poland
-  create: all
-  match: "**/*"
-- type: directory
-  path: _aia-team-blogs
-  label: Aia-team-blogs
   create: all
   match: "**/*"
 - type: directory
@@ -63,56 +66,78 @@ sections:
   label: Sports-performance-armenia
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _x-project
   label: X-project
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _soccer-portugal
   label: Soccer-portugal
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _basketball-ethopia
   label: Basketball-ethopia
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _track-canary
   label: Track-canary
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _track-switzerland
   label: Track-switzerland
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _track-tuff
   label: Track-tuff
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _basketball-new-zealand
   label: Basketball-new-zealand
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _basketball-czech-spain
   label: Basketball-czech-spain
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _sports-performance-honduras
   label: Sports-performance-honduras
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: directory
   path: _sports-performance-south-africa
   label: Sports-performance-south-africa
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 - type: heading
   label: Other
 - type: directory
@@ -120,6 +145,8 @@ sections:
   label: Utc-high-school
   create: all
   match: "**/*"
+  templates:
+  - blog-post
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: "/uploads"
