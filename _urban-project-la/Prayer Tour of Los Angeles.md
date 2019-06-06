@@ -1,0 +1,18 @@
+---
+layout: blog-page
+byLine: Prayer Tour of Los Angeles
+published: false
+
+---
+A Prayer Tour of Los Angeles  
+  
+Yesterday, the Urban Project crew went on a prayer “tour” of Los Angeles. The experience I had was beneficial in many ways, but I want to focus on the two that I feel are most important. First, this gave me a chance to REALLY see the city of Angels through a different lens… through the eyes of the hard working immigrant population, many of whom are ignored by those in power. As I absorbed the scene at MacArthur park, our first stop on the tour, I couldn't help but think about one of the things that our staff leader, Lynne Shenk, told us that really stuck with me. She said, “us as Christians do not confirm people's dignities, that is God’s job. Our job as Christians is to affirm the dignities that everyone already has, given to them divinely by God”. But it seems these affirmations go silent when it comes to immigrants from Mexico and Central America. Many of these people are concentrated in the particular area around MacArhtur park. People seem to get so caught up in the literal politics of immigration and fail to realize these are people too, who are hardworking and make sacrifices many of us could never imagine nor understand.  
+  
+The other important takeaway from this experience is how prayer is imperative to the life of a Christ follower. Prayer is mentioned many times throughout the Bible, but here is one verse that stands out to me. In 1 Thessalonians 5: 17 - 18, Paul tells the church to “Be unceasing and persistent in prayer, in every situation (no matter the circumstances) be thankful and continually give thanks to God” (AMP). The final stop of the tour was the perfect way to implement this teaching. Our last stop was Los Angeles City Hall. On the surface, City Hall should be a symbol of justice, change, and the men and women working inside are crusaders for bringing justice to everyone in the city. Such is not the case for LA. There is the unfortunate paradox that exists. Not even a block away from the steps leading into the building, there is a row of tents where homeless live. Even more contradictory, there are tents right in front of the sign outside of a construction site at reads, “Better is coming”. As our leader, Michael Sylvester, shared with us, Los Angeles has the eighth largest economy in the world...but there is still Skid Row. The paradox continues.  
+  
+For me, putting my hands on the pillars of city hall was what I felt God was leading me to do. I stood there and prayed. Prayed that the policies coming out of this building would be for the improvement of the city and would reflect the Kingdom of God the right way. I prayed for the men, women, and children whose voices may never be heard in this city hall, the state Capitol, Capitol Hill, or the White House. I prayed that God would continue to place his disciples in this city that would be soldiers for his Kingdom and his word. I prayed that he reveal to me how I play a part in this mission. The praying doesn't stop here. We as Urban Project and Christ followers must continue to pray without ceasing for Los Angeles, our leaders, and our nation for effective and Godly change.  
+  
+Keep praying for our leaders. Keep praying for humanity. Keep praying for your own communities, and keep praying for Los Angeles.  
+  
+Zoie Campbell   
+University of Northern Colorado
