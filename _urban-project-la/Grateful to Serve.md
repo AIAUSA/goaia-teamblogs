@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: Grateful to Serve
-published: false
 
 ---
 > Hey Everyone!
