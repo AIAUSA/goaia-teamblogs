@@ -18,11 +18,11 @@ fields:
   hidden: false
   default: wrestling
 pages:
-- _wrestling-ukraine/test.md
-- _wrestling-ukraine/travel-day.md
-- _wrestling-ukraine/ukraine-2018.md
-- _wrestling-ukraine/day-2.md
-- _wrestling-ukraine/camp-life.md
-- _wrestling-ukraine/day-5-camp.md
-- _wrestling-ukraine/day-3.md
 - _wrestling-ukraine/day-1.md
+- _wrestling-ukraine/day-3.md
+- _wrestling-ukraine/day-5-camp.md
+- _wrestling-ukraine/camp-life.md
+- _wrestling-ukraine/day-2.md
+- _wrestling-ukraine/ukraine-2018.md
+- _wrestling-ukraine/travel-day.md
+- _wrestling-ukraine/test.md
