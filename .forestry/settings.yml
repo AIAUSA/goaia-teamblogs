@@ -97,6 +97,13 @@ sections:
   templates:
   - blog-post
 - type: directory
+  path: _track-estonia
+  label: Track-Estonia
+  create: all
+  match: "**/*"
+  templates:
+  - blog-post
+- type: directory
   path: _track-switzerland
   label: Track-switzerland
   create: all
