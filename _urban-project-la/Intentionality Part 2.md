@@ -9,6 +9,6 @@ One local ministry site I want to highlight is the one I’ve been at which is F
 
 We have very gifted students here from different Athletes in Action chapters who are going into careers like public policy and law. Seeing them be heartbroken over what they see as ignored injustices, it gives me chills to think about the potential for what these students who have so much power _and_ empathy might do with their lives and careers to promote Shalom and restoration, drawing from what we’ve experienced here together.
 
-Jonathan Newman 
+Jonathan Newman
 
 University of California- Berkeley
