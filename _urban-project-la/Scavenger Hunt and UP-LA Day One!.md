@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: 'Scavenger Hunt and UP-LA Day One! '
-published: false
 
 ---
 It's day one at UP-LA 2019 and we have a total of 28 people in the frat house on sorority row at USC. This is the 19th year of UP-LA and God will continue to move in this household. We started off the day going to church at Central City Community Church of the Nazarene. Central City is located in the nation's largest community of homeless people; a place called "Skid Row." Despite much of the congregation being comprised of members of the local community, their worship was amazing, and you could just feel the joy that the musicians have and their love for the Lord. Then Pastor Tony Stallworth spoke about thankfulness; and it was amazing to see the congregation be so thankful, despite many of their current circumstances. They were thankful for waking up today and having a Father in heaven who loves them. We sang a song called "break every chain." This is a popular christian song, but singing with brothers and sisters in Christ who find themselves in unbelievably difficult situations on Skid Row gave it a whole new meaning. Congregants were singing at the top of their lungs praising Jesus and giving it all to Him. This church is a safe haven in the Skid Row community that welcomes all with open arms. It resembles Jesus in so many ways.
