@@ -12,5 +12,3 @@ We also have thought leaders come in to speak on each of the 3 R’s and discuss
 Jonathan Newman
 
 University of California- Berkeley
-
-![](/uploads/2019/06/11/z MQD 3KSh26n0FeUu6Vjw.jpg)
