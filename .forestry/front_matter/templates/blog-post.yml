@@ -14,4 +14,5 @@ fields:
   hidden: true
   default: blog-page
 pages:
+- _track-estonia/estonia-2019-we-re-here.md
 - _track-estonia/estonia-2019-training-camp.md
