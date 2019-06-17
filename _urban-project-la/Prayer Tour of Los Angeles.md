@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: Prayer Tour of Los Angeles
-published: false
 
 ---
 A Prayer Tour of Los Angeles
