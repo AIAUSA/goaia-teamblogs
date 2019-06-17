@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: Ministry Sites
-published: false
 
 ---
 Every afternoon during the week, we all split up into smaller groups and go to our ministry sites where we get to serve and interact with kids and our AIA partners. The sites include the Boys and Girls Club at Ramona Gardens, Nickerson Gardens, The Ed Center, Pasadena and Faith in Christ. Each of these sites have a different purpose to serving God and the community and I have really enjoyed hearing everyone’s stories from week one. I get the privilege of going to the Boys and Girls Club at Ramona Gardens along with my awesome group members Chris, Eleanor, Imani, and Crosby.
