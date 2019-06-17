@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: Sports and Fun at Nickerson Gardens
-published: false
 
 ---
 On Saturday, students, staff, and friends of the Urban Project went to Nickerson Gardens to conduct sports clinics, a craft table, face painting, and then have lunch with the community. If I could describe the day, I would have to say it was a blessing.

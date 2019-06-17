@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: 'One Week Complete '
-published: false
 
 ---
 A full week is done here in Los Angeles. This Sunday gave us the opportunity to recharge for the week ahead, while still reflecting on what we’ve learned thus far. First, we started off the day worshipping the Lord at one of our ministry sites, Faith in Christ.   
