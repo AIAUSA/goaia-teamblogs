@@ -17,6 +17,6 @@ The day was truly worthwhile because we got to see so many kids outside enjoying
 
 I am glad I had the pleasure of serving a part of that community for a short amount of time. It gave me a chance to see and be a part of something greater than myself. I really discovered the power of listening to people speak about their experiences, especially kids. Kids need to be listened to and nurtured. I know this memory will be with me the rest of my life.
 
-Zoie Campbell 
+Zoie Campbell
 
 University of Northern Colorado
