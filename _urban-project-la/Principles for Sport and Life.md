@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: Principles for Sport and Life
-published: false
 
 ---
 Wow! The Urban Project – Los Angeles (UP-LA) has been nothing short of a blessing. From the love you are greeted with when you first touch down to the house, to the love felt during the multiple, heart-touching prayers everyday; this group of strangers has quickly became a close group of friends – all because of the common factor: our love for God. I think being around community where everyone you 24/7 is on a mission to grow in their relationship with God is a powerful, powerful feeling that it is hard to explain.
