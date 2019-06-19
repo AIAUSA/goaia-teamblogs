@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 byLine: 'Sports Clinic at Nickerson Gardens '
-published: false
 
 ---
 The Urban Project – Los Angeles (UP-LA) is a life changing experience. I have seen God orchestrating events, conversations, and more since the first day. He is definitely in this place. I am currently serving as a site captain for Nickerson Gardens. This is arguably one of the most challenging sites, but I am loving it. The people there are teaching me so much. I am getting to experience people for who they are and not from what prior stereotypes may have already defined them to be. God is showing Himself so powerfully!  
