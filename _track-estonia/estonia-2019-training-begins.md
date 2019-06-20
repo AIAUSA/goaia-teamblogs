@@ -1,0 +1,17 @@
+---
+layout: blog-page
+title: 'Estonia 2019: Training begins!'
+published: false
+
+---
+Our team is off and running with our activities in Tallinn! After a few days of getting acclimated to a new country and culture we have finally began some of the training we have had planned. Monday we were blessed with the opportunity to run a club practice for two youth track clubs in Tallinn. The kids we were coaching were anywhere from 14 to 19 years old and they competed in a variety of events. At first everyone was a little timid as we led them through some warm up drills and strides. Then we moved into the sprint worked we had planned for them. It consisted of four 150 meter sprints and four 75 meter sprints. As we started the workout the kids started to lighten up, and we were able to encourage them as they were doing the workout. Many of the kids commented that the workout was much harder than what they expected from Americans. After the workout as the kids cooled down and were getting water, we were able to start many conversations with them. It was fun to connect with them on a more personal level. Some of our team members were able to have spiritual conversations, so be in prayer that God works in the hearts of those athletes. As we were leaving the coaches invited us back for training on Friday morning. All of the team is very excited to return and meet up with those we connected with on Monday. Be in prayer that our team would be able to have more spiritual conversations and that God would touch the hearts of many athletes there. 
+
+On Tuesday the three day training clinic began. This clinic is for coaches, recreational runner, or professional runners who are looking to develop as runners. The clinic is focusing on the body, mind, and soul of a runner. On Tuesday Coach Misch began the “body” portion of the clinic by introducing some of his training principles and drills. We were even able to get out on the track to try out some of these drills. Some of us even made an appearance on Estonian national television. (You can even check it out here: [https://sport.err.ee/953902/usa-treener-doha-mm-on-tiidrek-nurmele-suureparane-voimalus](https://sport.err.ee/953902/usa-treener-doha-mm-on-tiidrek-nurmele-suureparane-voimalus "https://sport.err.ee/953902/usa-treener-doha-mm-on-tiidrek-nurmele-suureparane-voimalus")) On Wednesday the focus was the “mind” portion of the clinic. Coach Mark and Tiidrek explained the importance of being a mentally strong runner. For the practical portion Tiidrek showed some simple stretching techniques. Thursday will be the “soul” portion of the clinic. Be in prayer that this part of the clinic would open up opportunities for us to use our sport to share our faith in Christ and the hope we have. 
+
+  
+Not only have we been busy with trainings, but we have also been getting to know each other on the team. We have been sharing our “I am from” poems to get to know each other more on a personal level. We have also been growing spiritually while we have been in Estonia. Each day a different member of the team gives a short devotional. This has been encouraging to hear from the Word each morning. Ben has been doing a stellar job leading us in a worship song each morning. Pray that God would grow the unity on our team and that it would be used to share the hope that we have with other. 
+
+  
+Thank you so much for everyone who has been supporting and praying for this team. God has blessed us so far and we pray much more is still to come.  
+  
+\-Jordan for the team
