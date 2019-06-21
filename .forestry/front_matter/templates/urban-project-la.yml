@@ -12,12 +12,41 @@ fields:
   type: text
   hidden: false
   default: blog-page
-- name: date
-  type: datetime
-  label: Publish Date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
+pages:
+- _urban-project-la/Eye Opening and Transformative.md
+- _urban-project-la/Beach day, the best day.md
+- _urban-project-la/Our Responsibility.md
+- _urban-project-la/Sports Clinic at Nickerson Gardens.md
+- _urban-project-la/Reconciliation- Week 2.md
+- _urban-project-la/My Time So Far.md
+- _urban-project-la/Ministry Sites.md
+- _urban-project-la/Principles for Sport and Life.md
+- _urban-project-la/Grateful to Serve.md
+- _urban-project-la/Sports and Fun at Nickerson Gardens.md
+- _urban-project-la/Intentionality Part 2.md
+- _urban-project-la/Intentionality Part 1.md
+- _urban-project-la/One Week Complete.md
+- _urban-project-la/Prayer Tour of Los Angeles.md
+- _urban-project-la/Scavenger Hunt and UP-LA Day One!.md
+- _urban-project-la/welcome.md
+- _urban-project-la/order-my-steps.md
+- _urban-project-la/seeking-answers.md
+- _urban-project-la/god-family-basketball.md
+- _urban-project-la/hidden-testimonies.md
+- _urban-project-la/climbing-cliffs-part-i.md
+- _urban-project-la/what-s-next.md
+- _urban-project-la/community-healing.md
+- _urban-project-la/buffet-style-family.md
+- _urban-project-la/gran-torino-and-the-struggle-for-unity.md
+- _urban-project-la/pain.md
+- _urban-project-la/rejoice-with-those-who-rejoice-mourn-with-those-who-mourn.md
+- _urban-project-la/my-need-is-your-need.md
+- _urban-project-la/early-excitement.md
+- _urban-project-la/climbing-cliffs-part-ii.md
+- _urban-project-la/child-like-joy.md
+- _urban-project-la/the-principles-a-prayer-tour-and-more.md
+- _urban-project-la/living-as-one.md
+- _urban-project-la/20-hours-of-constant-sweat-and-surrender.md
+- _urban-project-la/play-freely.md
+- _urban-project-la/the-lord-is-my-rock.md
+- _urban-project-la/Welcome to the 2019 Urban Project – Los Angeles.md
