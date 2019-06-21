@@ -1,0 +1,20 @@
+---
+label: Urban Project
+hide_body: false
+fields:
+- type: text
+  name: byLine
+  label: byLine
+- type: text
+  name: layout
+  label: layout
+  hidden: true
+  config:
+    required: false
+  default: blog-post
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
