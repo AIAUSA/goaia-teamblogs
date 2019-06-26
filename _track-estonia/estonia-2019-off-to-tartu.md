@@ -1,7 +1,6 @@
 ---
 layout: blog-page
 title: 'Estonia 2019: Off to Tartu!'
-published: false
 
 ---
 Greetings from Tartu, Estonia. This is the second stop on our team’s tour of Estonia. But first let me catch you up on all that has happened in our last few days. As I mentioned in the last post Thursday was the last day of our clinic in Tallinn. This was the day we talked about the “soul” portion of the clinic. Coach Mark and Tiidrek both explained why the spiritual aspect of being a competitor is so important and they also shared about their testimony. During this night of the clinic there was a short athlete panel in which some of the members of the team answered some questions. Those of us who spoke talked about how we place our value and worth in things that are greater than our sport and how we can find satisfaction outside of our success and failures in running. After the theoretical talk we headed outside for a short hill workout.
