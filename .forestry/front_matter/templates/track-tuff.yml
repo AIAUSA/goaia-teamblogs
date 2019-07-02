@@ -17,3 +17,8 @@ fields:
   type: text
   hidden: false
   default: track
+pages:
+- _track-tuff/tuff-training-u-faster-and-further.md
+- _track-tuff/staff-fellowship-and-preparation-for-tuff.md
+- _track-tuff/meet-the-gentlemen.md
+- _track-tuff/meet-the-ladies.md

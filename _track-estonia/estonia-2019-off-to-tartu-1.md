@@ -1,8 +1,10 @@
 ---
 layout: blog-page
 title: 'Estonia 2019: The Final Stretch in Tartu!'
+published: false
 
 ---
+![](/uploads/2019/07/02/FB_IMG_1562046552821.jpg)
 
 Greetings once again from Tallinn. Our time as a team is Estonia is quickly drawing to a close. Just over two weeks ago we entered Estonia for the first time, now we are sad we have to leave so soon. We have seen God work in so many ways in our short two weeks in this beautiful country. We have been blessed to spend time with Estonian believers as well as form relationships with not-yet-Christians.
 
