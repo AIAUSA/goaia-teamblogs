@@ -14,6 +14,7 @@ fields:
   hidden: true
   default: blog-page
 pages:
+- _track-estonia/estonia-2019-the-final-stretch-in-tartu.md
 - _track-estonia/the-final-stretch-of-our-time-in-estonia.md
 - _track-estonia/estonia-2019-off-to-tartu.md
 - _track-estonia/estonia-2019-training-begins.md
